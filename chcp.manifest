@@ -1,0 +1,3810 @@
+[
+  {
+    "file": "css/index.css",
+    "hash": "5dcf816b7ebd105b513554da547e56c7"
+  },
+  {
+    "file": "css/tailwind.css",
+    "hash": "9cf0ad9bb110a4b66c3905c6f79c4bf7"
+  },
+  {
+    "file": "icons/arrow-down.png",
+    "hash": "f115aed6b0a24f6ce8e762a87a8cf676"
+  },
+  {
+    "file": "icons/arrow-left.png",
+    "hash": "ca9ce152c37563ffc3ae7cbafc7408ad"
+  },
+  {
+    "file": "icons/arrow-right.png",
+    "hash": "2183a3cafbbae57dc18a3251fdb87c3d"
+  },
+  {
+    "file": "icons/carts-active.png",
+    "hash": "06be77d74bd26f541fef494900670896"
+  },
+  {
+    "file": "icons/carts.png",
+    "hash": "d9beabeb8f2310ab605f0afdcb6e2f82"
+  },
+  {
+    "file": "icons/chat/add-member.png",
+    "hash": "799d0fc6066d09a0893dd5b1eb35408e"
+  },
+  {
+    "file": "icons/chat/all-read.png",
+    "hash": "0afc935a25dcc795ff12f35f39428937"
+  },
+  {
+    "file": "icons/chat/camera.png",
+    "hash": "41f3673a8ed8ca9f4ae54699f5def82e"
+  },
+  {
+    "file": "icons/chat/close-modal.png",
+    "hash": "098e3284ee2f5b290714cc89920c7f9b"
+  },
+  {
+    "file": "icons/chat/confirm-clear.png",
+    "hash": "706e89af75cced91d72a1d3ee673d628"
+  },
+  {
+    "file": "icons/chat/download-qr.png",
+    "hash": "bd5534ed2da19632e7c9f6e1660d1b6a"
+  },
+  {
+    "file": "icons/chat/edit-group.png",
+    "hash": "61a971ab71a8a899ade5f6700d2508e8"
+  },
+  {
+    "file": "icons/chat/empty.png",
+    "hash": "1274bc9844fe46712abfe45a146a932d"
+  },
+  {
+    "file": "icons/chat/group-manage.png",
+    "hash": "9f5dc79d0211297fa2d50bb563b4dd33"
+  },
+  {
+    "file": "icons/chat/group-member.png",
+    "hash": "45ebf0fe695b5b4993a6d7a661d63242"
+  },
+  {
+    "file": "icons/chat/group.png",
+    "hash": "2dfa7657c0540c79b0d4ea36e49420b4"
+  },
+  {
+    "file": "icons/chat/key.png",
+    "hash": "e84626448c1bde84b8d804b15770f0ce"
+  },
+  {
+    "file": "icons/chat/manage-member.png",
+    "hash": "2dfa7657c0540c79b0d4ea36e49420b4"
+  },
+  {
+    "file": "icons/chat/menu-dots.png",
+    "hash": "963c6c7a8e0b20947fa9acdfe3b1c2bf"
+  },
+  {
+    "file": "icons/chat/more-gray.png",
+    "hash": "d9a3936e54e33da5987bc9acf0bcfe78"
+  },
+  {
+    "file": "icons/chat/more.png",
+    "hash": "59729a1ba05ffa18aab0857917f2496f"
+  },
+  {
+    "file": "icons/chat/my-nickname.png",
+    "hash": "5c9e6dd867a39846fa83ed4cb3b31fda"
+  },
+  {
+    "file": "icons/chat/online.png",
+    "hash": "4c8565e0436c9fe69a65084b391cfb74"
+  },
+  {
+    "file": "icons/chat/passport.png",
+    "hash": "1b6f5972fee8b1a06f126961e3e8501b"
+  },
+  {
+    "file": "icons/chat/pin.png",
+    "hash": "f6af7d51242937bac44f5bf594a35622"
+  },
+  {
+    "file": "icons/chat/polygon.png",
+    "hash": "cc2b5fe24cb28ceb02a3f7f5c1e764ba"
+  },
+  {
+    "file": "icons/chat/qr-code.png",
+    "hash": "63c1a538cead9571e3faff94645d801c"
+  },
+  {
+    "file": "icons/chat/remove-member.png",
+    "hash": "2318b656d4f02f23d79f4d8663b928d5"
+  },
+  {
+    "file": "icons/chat/scan.png",
+    "hash": "690fcbf68c96f124e75b594599285064"
+  },
+  {
+    "file": "icons/chat/search.png",
+    "hash": "212aac7269750f515a3715faff389ca9"
+  },
+  {
+    "file": "icons/chat/send.png",
+    "hash": "952f48e7c5668ba31728085c8189b3b0"
+  },
+  {
+    "file": "icons/chat/send1.png",
+    "hash": "9a5532dc748e6178d299c47da9a8745b"
+  },
+  {
+    "file": "icons/chat/setting.png",
+    "hash": "99fab8ebe13a0df0dec98b5c34e9710c"
+  },
+  {
+    "file": "icons/chat/sms-star.png",
+    "hash": "0359bb7ef292b60200f6326b1ddc5e8c"
+  },
+  {
+    "file": "icons/chat/tail-left.png",
+    "hash": "02df7c6095827e89c64b5eefd980ab51"
+  },
+  {
+    "file": "icons/chat/tail-right.png",
+    "hash": "93d192cd16d6cc2091d4b5763d95965f"
+  },
+  {
+    "file": "icons/chat/trash-group.png",
+    "hash": "4beb4b63e7e8622a6c79d40463e4374e"
+  },
+  {
+    "file": "icons/chat/trash.png",
+    "hash": "4beb4b63e7e8622a6c79d40463e4374e"
+  },
+  {
+    "file": "icons/chat/unpin.png",
+    "hash": "acce55cc92d60b1b350ba88e75a73053"
+  },
+  {
+    "file": "icons/chat/upload-image.png",
+    "hash": "37bd3580498a0fe981a812500542e19b"
+  },
+  {
+    "file": "icons/chat/upload-video.png",
+    "hash": "2ee9286c0fbf0d273c0f2a643a0e7707"
+  },
+  {
+    "file": "icons/checked.png",
+    "hash": "ac6c3e718b32951fe89a0966dd265052"
+  },
+  {
+    "file": "icons/complete.png",
+    "hash": "09c8ba73b7c2c5d4d6c4e02c370e78f5"
+  },
+  {
+    "file": "icons/data.png",
+    "hash": "a97ed149994da025feb57f6fadc5ad44"
+  },
+  {
+    "file": "icons/empty.png",
+    "hash": "67331df2ed9d07dbf9718efc85d006d0"
+  },
+  {
+    "file": "icons/Frame.png",
+    "hash": "44e28aa888d93171958fce7d4238c909"
+  },
+  {
+    "file": "icons/home-active.png",
+    "hash": "f3bfdb4891b298c8d5b2a034734f61e1"
+  },
+  {
+    "file": "icons/home.png",
+    "hash": "7ac8d15cbf3aa28c1cc31c69b8013809"
+  },
+  {
+    "file": "icons/icon-live.png",
+    "hash": "d1da77ac789207c518c01f4e87c48a83"
+  },
+  {
+    "file": "icons/imchat-active.png",
+    "hash": "92648718b134e863b1abd76fa4d31b80"
+  },
+  {
+    "file": "icons/imchat.png",
+    "hash": "948805888d75173cc15a36ea7f56e056"
+  },
+  {
+    "file": "icons/likes/1.png",
+    "hash": "62a8a83c5d4de142504ed5d397c55adb"
+  },
+  {
+    "file": "icons/likes/10.png",
+    "hash": "c48fc37f4c1dac984ef8fe2713735c4c"
+  },
+  {
+    "file": "icons/likes/11.png",
+    "hash": "75738c803eeec198d49885806d927fbc"
+  },
+  {
+    "file": "icons/likes/12.png",
+    "hash": "c591919af8938efea8311d41f045b904"
+  },
+  {
+    "file": "icons/likes/13.png",
+    "hash": "5e8703ed7e3b49a8700b52abdbb524f5"
+  },
+  {
+    "file": "icons/likes/14.png",
+    "hash": "df8cb8e517e831941cfbd318480d21ce"
+  },
+  {
+    "file": "icons/likes/15.png",
+    "hash": "99039439364de725f5cdd812cb7738a9"
+  },
+  {
+    "file": "icons/likes/16.png",
+    "hash": "cdbd64e7a2cefbb0f0c85c8a68e1a665"
+  },
+  {
+    "file": "icons/likes/17.png",
+    "hash": "fb64fd222aa2af3863a314f6c00c6619"
+  },
+  {
+    "file": "icons/likes/18.png",
+    "hash": "73ffe69998548b2e84d867923c9f714c"
+  },
+  {
+    "file": "icons/likes/19.png",
+    "hash": "5ac19499394e30a4afc150619a7717ca"
+  },
+  {
+    "file": "icons/likes/2.png",
+    "hash": "a803a0460ee8e8d234d444fc73c54ec8"
+  },
+  {
+    "file": "icons/likes/20.png",
+    "hash": "ebde9f502d77855cd12c542b26e7d71b"
+  },
+  {
+    "file": "icons/likes/3.png",
+    "hash": "95ec9ad6467330b657e35884fc6f04cb"
+  },
+  {
+    "file": "icons/likes/4.png",
+    "hash": "12c029cb8256b2271ad1d9e8645fecdf"
+  },
+  {
+    "file": "icons/likes/5.png",
+    "hash": "c48fc37f4c1dac984ef8fe2713735c4c"
+  },
+  {
+    "file": "icons/likes/6.png",
+    "hash": "455368bfba2ff653fa3962d7c6d4f48d"
+  },
+  {
+    "file": "icons/likes/7.png",
+    "hash": "b750f4aef321a29bba2922456508fb6b"
+  },
+  {
+    "file": "icons/likes/8.png",
+    "hash": "3db7408e49b32dad02a73d636966c93f"
+  },
+  {
+    "file": "icons/likes/9.png",
+    "hash": "8b9fee8656d3832988bb35bd980bb501"
+  },
+  {
+    "file": "icons/live-active.png",
+    "hash": "26627c109985da766ec404d8085f0e50"
+  },
+  {
+    "file": "icons/live.png",
+    "hash": "5a83dc56efe93b24a11dd51787d4f8ce"
+  },
+  {
+    "file": "icons/mesage.png",
+    "hash": "7bc5823c411276f5dacc6304cc5043e4"
+  },
+  {
+    "file": "icons/message-active.png",
+    "hash": "2f6c959a6a3a6255596409100a568fae"
+  },
+  {
+    "file": "icons/message.png",
+    "hash": "b9c8e420571f6017e184797b363d4ace"
+  },
+  {
+    "file": "icons/mining-active.png",
+    "hash": "7219494fb8724ec765e7957bb7a26660"
+  },
+  {
+    "file": "icons/mining.png",
+    "hash": "1b1ff871b6752ed4bfa1c2acd2786211"
+  },
+  {
+    "file": "icons/mtu.png",
+    "hash": "e0b1bb9ecfae7e4969e9416eef5361b0"
+  },
+  {
+    "file": "icons/mvt/banner.png",
+    "hash": "d549ba146dba809945a13691d6f2da67"
+  },
+  {
+    "file": "icons/mvt/bg.png",
+    "hash": "9399b0ec284ac2258494cc1aa3c3e68c"
+  },
+  {
+    "file": "icons/mvt/mining-now.png",
+    "hash": "6f175e2702ac69b02b3c590585c712b2"
+  },
+  {
+    "file": "icons/mvt/mvt-coin.png",
+    "hash": "23a4c9fb71e18ed6b34c41cb4acd8ccd"
+  },
+  {
+    "file": "icons/mvt/mvt-rule.png",
+    "hash": "1888b761347e978487f5b7e8d462afd3"
+  },
+  {
+    "file": "icons/mvt/reward.png",
+    "hash": "539b5e6f90b1e68a8f0b75fffe543665"
+  },
+  {
+    "file": "icons/mvt/tether-coin.png",
+    "hash": "d708a29928a43c14608a02e89789b2b1"
+  },
+  {
+    "file": "icons/mvt/tether-withdraw.png",
+    "hash": "af2b825196138a9d9594e7486abaa6ff"
+  },
+  {
+    "file": "icons/mvt/tether.png",
+    "hash": "809fe693784f5842a6810ee5c2b65a78"
+  },
+  {
+    "file": "icons/my-active.png",
+    "hash": "e04500e872157959461359ce84849452"
+  },
+  {
+    "file": "icons/my.png",
+    "hash": "21a88e4043dbf78c919362c51d2568df"
+  },
+  {
+    "file": "icons/np-user.png",
+    "hash": "32d92664f8a58b77b669b01716bb49f7"
+  },
+  {
+    "file": "icons/order-active.png",
+    "hash": "7f7ebea6bad31cd3fa99be0f0eeed321"
+  },
+  {
+    "file": "icons/orders.png",
+    "hash": "960a29a71c35b58afff84964e4f69cab"
+  },
+  {
+    "file": "icons/pin.png",
+    "hash": "74f23dd32dc80fa16bc808810c96b2aa"
+  },
+  {
+    "file": "icons/profile/arrow-line-left.png",
+    "hash": "3974e27d2713852350375e162908fcc5"
+  },
+  {
+    "file": "icons/profile/banner.png",
+    "hash": "bc143ffc32210f47c1a073bd930ee3b0"
+  },
+  {
+    "file": "icons/profile/camera.png",
+    "hash": "41f3673a8ed8ca9f4ae54699f5def82e"
+  },
+  {
+    "file": "icons/profile/change-avatar.png",
+    "hash": "90b1113034a45a63bbb06bbfa7f46bbe"
+  },
+  {
+    "file": "icons/profile/check-lang.png",
+    "hash": "33ca34171cf61cc6331258f6199ea509"
+  },
+  {
+    "file": "icons/profile/check.png",
+    "hash": "f51a9f47712e80ccf7e995033f7ab13d"
+  },
+  {
+    "file": "icons/profile/checkbox-active.png",
+    "hash": "ac6c3e718b32951fe89a0966dd265052"
+  },
+  {
+    "file": "icons/profile/checkbox.png",
+    "hash": "ad1d2a2fc6def87b03f6631284a4b958"
+  },
+  {
+    "file": "icons/profile/close.png",
+    "hash": "9c286836ab81da9fe8190d8f2af5d31a"
+  },
+  {
+    "file": "icons/profile/copy.png",
+    "hash": "2ac42971352de43050df185836322e05"
+  },
+  {
+    "file": "icons/profile/customer-service.png",
+    "hash": "ab8417052f7cb7073c157549beb3dfd8"
+  },
+  {
+    "file": "icons/profile/edit.png",
+    "hash": "0309da32d82daa0adc2d3b8b7ed6d122"
+  },
+  {
+    "file": "icons/profile/eye-close.png",
+    "hash": "f733e70f36d59e49b7ed94ee89972042"
+  },
+  {
+    "file": "icons/profile/favorite-active.png",
+    "hash": "69b05cd5f9aa07bb00caa7e7ad0e099f"
+  },
+  {
+    "file": "icons/profile/favorite.png",
+    "hash": "79dd81de1c7a1a112311702a5a2e73db"
+  },
+  {
+    "file": "icons/profile/invite.png",
+    "hash": "e21d53f4a61ac3e1669b4dedac68f043"
+  },
+  {
+    "file": "icons/profile/language.png",
+    "hash": "fe49ee9a9c91c6b113da68d48c1bef87"
+  },
+  {
+    "file": "icons/profile/like-active.png",
+    "hash": "8dc915520ef641d0d381ed99df2efba6"
+  },
+  {
+    "file": "icons/profile/like.png",
+    "hash": "ab45fcd9cb2671a54e63a8bb2972dfee"
+  },
+  {
+    "file": "icons/profile/logout.png",
+    "hash": "899e62c62f8b06ae2cc3b1f383ffcba1"
+  },
+  {
+    "file": "icons/profile/man.png",
+    "hash": "234a3936869b538a6f85b90e4dce04a2"
+  },
+  {
+    "file": "icons/profile/management.png",
+    "hash": "52224cd32cf83ddd6a6267a736428c2b"
+  },
+  {
+    "file": "icons/profile/more-icon.png",
+    "hash": "0147b53d8844b324f6ef34b911659bf9"
+  },
+  {
+    "file": "icons/profile/more.png",
+    "hash": "ad70e700ff046b8581aa93cc84d3c6d2"
+  },
+  {
+    "file": "icons/profile/mvt-pool.png",
+    "hash": "663d43751fba6df711c7b0e579abf185"
+  },
+  {
+    "file": "icons/profile/nodata.png",
+    "hash": "2b91b8dd8af9a95fd86c67b594eebe81"
+  },
+  {
+    "file": "icons/profile/notice.png",
+    "hash": "4f9bf35cbe6b06585f83405d8a044945"
+  },
+  {
+    "file": "icons/profile/play.png",
+    "hash": "5c6ea9d6b0c0520fa6a90d1f2e8989f6"
+  },
+  {
+    "file": "icons/profile/private-active.png",
+    "hash": "d69bb2625554de477d2305c73b13c90c"
+  },
+  {
+    "file": "icons/profile/private.png",
+    "hash": "4a69f779302e45f9cc9cb25386e89283"
+  },
+  {
+    "file": "icons/profile/profile.png",
+    "hash": "d580d8fa2bd38f911fc2f0fcb5e2c883"
+  },
+  {
+    "file": "icons/profile/ranking.png",
+    "hash": "25fb0c7dbd19a2d2588de62b3453880c"
+  },
+  {
+    "file": "icons/profile/search-white.png",
+    "hash": "212aac7269750f515a3715faff389ca9"
+  },
+  {
+    "file": "icons/profile/search.png",
+    "hash": "ac219f921c878a2faea6adfb4730b98a"
+  },
+  {
+    "file": "icons/profile/team.png",
+    "hash": "574ceeb354108f780afdb2c352aeae0c"
+  },
+  {
+    "file": "icons/profile/wallet.png",
+    "hash": "634ab76efa33568fa49cb39b3f90f062"
+  },
+  {
+    "file": "icons/profile/woman.png",
+    "hash": "8cda8a1acb022013dbf3bfa7a7f4c465"
+  },
+  {
+    "file": "icons/profile/work-active.png",
+    "hash": "016329a1bcec0f4bdb656321c783bc88"
+  },
+  {
+    "file": "icons/profile/work.png",
+    "hash": "13ad069c26558bdf291ae3ed2d7e5883"
+  },
+  {
+    "file": "icons/team/cloud.png",
+    "hash": "ab6264a6fbf4981f30d882aa014625d4"
+  },
+  {
+    "file": "icons/team/light.png",
+    "hash": "606e53bc394d5870c0e2e4bb2e83b0e9"
+  },
+  {
+    "file": "icons/team/logo-shadow.png",
+    "hash": "b2ef16499535b45aa6a4b7e028458372"
+  },
+  {
+    "file": "icons/team/save.png",
+    "hash": "c3e71ea3891b7aa1979c5a82068dae10"
+  },
+  {
+    "file": "icons/team/scanner.png",
+    "hash": "4860d5795745368675a86f9cb93bb8fc"
+  },
+  {
+    "file": "icons/uncheck.png",
+    "hash": "ad1d2a2fc6def87b03f6631284a4b958"
+  },
+  {
+    "file": "icons/user/account.png",
+    "hash": "3a9268f9fade6ee1d4419654c3f19ba9"
+  },
+  {
+    "file": "icons/user/add.png",
+    "hash": "a9146a32ce026b97ccabff8ef0f65d57"
+  },
+  {
+    "file": "icons/user/agree.png",
+    "hash": "53865b5f9d4a8163d478b995e323927e"
+  },
+  {
+    "file": "icons/user/arrow-left-full.png",
+    "hash": "5b3fffc2b4822714e77bcee903646b78"
+  },
+  {
+    "file": "icons/user/arrow-right-full.png",
+    "hash": "d01c3d90d31c894f72676f2a4c9e2280"
+  },
+  {
+    "file": "icons/user/chat-group.png",
+    "hash": "c1eafa9eefb2bf3995b3071793df67a5"
+  },
+  {
+    "file": "icons/user/chat.png",
+    "hash": "3e4589b1085953f8c51a805660e5bca6"
+  },
+  {
+    "file": "icons/user/coin.png",
+    "hash": "af94fc5b8eb5773256a528ec1a35eca0"
+  },
+  {
+    "file": "icons/user/collect-active.png",
+    "hash": "64f17cfd0bf8cf4c19f62f73d584f6d3"
+  },
+  {
+    "file": "icons/user/collect.png",
+    "hash": "562ffb5f6706f22d0393fb81e93e37c7"
+  },
+  {
+    "file": "icons/user/comment.png",
+    "hash": "f343e45895ea885fdcb5f59474b2d214"
+  },
+  {
+    "file": "icons/user/custom.png",
+    "hash": "202ff21e2fe68998b92d45ca41aebb22"
+  },
+  {
+    "file": "icons/user/Ellipse.png",
+    "hash": "e497a29b6333546cf8d517e328149755"
+  },
+  {
+    "file": "icons/user/en-flag.png",
+    "hash": "3d243256473ccf7becde2d3e85f06ab1"
+  },
+  {
+    "file": "icons/user/female.png",
+    "hash": "7198a8d6962f3301a4aec349a96252bd"
+  },
+  {
+    "file": "icons/user/follow-active.png",
+    "hash": "50964a568db2623cb1542c4c770401e7"
+  },
+  {
+    "file": "icons/user/follow-back.png",
+    "hash": "d805910074767ac0f823e55ad848044c"
+  },
+  {
+    "file": "icons/user/follow.png",
+    "hash": "29ce4c3b69a87b7be4d3f9d3a4abbb6b"
+  },
+  {
+    "file": "icons/user/fr-flag.png",
+    "hash": "06fe22c60ec0015cbf8ee4a377c9bf9c"
+  },
+  {
+    "file": "icons/user/gift.png",
+    "hash": "70e451d97e6be3d10af284155fd7d3a4"
+  },
+  {
+    "file": "icons/user/icon-acceptor.png",
+    "hash": "8132dc256e7ab64c2113bdf0f6a0f8d8"
+  },
+  {
+    "file": "icons/user/icon-account.png",
+    "hash": "bc7ba59890506125a486f757d27211cf"
+  },
+  {
+    "file": "icons/user/icon-add-black.png",
+    "hash": "398c371dedfa51da814f858522abb624"
+  },
+  {
+    "file": "icons/user/icon-add-friend.png",
+    "hash": "dc760e30bf3b88def9262d2404a7b136"
+  },
+  {
+    "file": "icons/user/icon-add-group.png",
+    "hash": "cf7566864e0c4fef51387e9ecd49f8e3"
+  },
+  {
+    "file": "icons/user/icon-add-white.png",
+    "hash": "a9146a32ce026b97ccabff8ef0f65d57"
+  },
+  {
+    "file": "icons/user/icon-add.png",
+    "hash": "646386d2da6efe185561496128e13e11"
+  },
+  {
+    "file": "icons/user/icon-address.png",
+    "hash": "575b18870ed6038ce4584390476fb695"
+  },
+  {
+    "file": "icons/user/icon-album.png",
+    "hash": "a26bf9f6a6c35560348a5d495883464d"
+  },
+  {
+    "file": "icons/user/icon-apply.png",
+    "hash": "f665d6ab5560d459cfb03060951641fb"
+  },
+  {
+    "file": "icons/user/icon-arrow_left.png",
+    "hash": "0d1b190e87639b7ed00a4d51950b29fa"
+  },
+  {
+    "file": "icons/user/icon-arrow-left.png",
+    "hash": "eb2105c85103167bb35c2d5e622db1f8"
+  },
+  {
+    "file": "icons/user/icon-arrow-more.png",
+    "hash": "e3bb0ba9167406ad64cd67a2cc5bbba8"
+  },
+  {
+    "file": "icons/user/icon-arrow-right.png",
+    "hash": "ac0d6c9e9177f259448d818f1bcf7c9d"
+  },
+  {
+    "file": "icons/user/icon-arrow.png",
+    "hash": "5af32463df25bab4a35c2a59355123bb"
+  },
+  {
+    "file": "icons/user/icon-books.png",
+    "hash": "7ae2ad9a843046591a66c40c75912a22"
+  },
+  {
+    "file": "icons/user/icon-box-empty.png",
+    "hash": "2bcd4851167eb48dfd5e17327f99ac48"
+  },
+  {
+    "file": "icons/user/icon-box.png",
+    "hash": "033504de122edc673dc351bcdfcbe134"
+  },
+  {
+    "file": "icons/user/icon-business.png",
+    "hash": "3818678dd56f608ba5b356faa86cb53b"
+  },
+  {
+    "file": "icons/user/icon-cart.png",
+    "hash": "81ead3fe37a2c083706d4dbd9ade7bf2"
+  },
+  {
+    "file": "icons/user/icon-close-black.png",
+    "hash": "093b74aec763e34fe326f21c208dfc3a"
+  },
+  {
+    "file": "icons/user/icon-close.png",
+    "hash": "7ceeb0a3f6099683d6be6bad16609f4e"
+  },
+  {
+    "file": "icons/user/icon-comment.png",
+    "hash": "a8039b49e7a278770bdf34843ba46f6a"
+  },
+  {
+    "file": "icons/user/icon-copy.png",
+    "hash": "b3c0ba881ceb7ae601808ff9399cd0a9"
+  },
+  {
+    "file": "icons/user/icon-custom-bg.png",
+    "hash": "4cf9ec745ca45dc67df49f7a00d51409"
+  },
+  {
+    "file": "icons/user/icon-custom.png",
+    "hash": "e3ecfcab6ec2491a7990ba53effaad86"
+  },
+  {
+    "file": "icons/user/icon-del.png",
+    "hash": "a867e0fcc596b70b761267cbd802ee23"
+  },
+  {
+    "file": "icons/user/icon-delete.png",
+    "hash": "d7e483f7241b35c882ea8fd43edc96f6"
+  },
+  {
+    "file": "icons/user/icon-down-arrow.png",
+    "hash": "9d66fb478e1e032279111263a4486fb6"
+  },
+  {
+    "file": "icons/user/icon-download.png",
+    "hash": "5a63cec4828a5e1a9f01e46cca248005"
+  },
+  {
+    "file": "icons/user/icon-email.png",
+    "hash": "29b82005e9ae9bc3b5f64325ac10e553"
+  },
+  {
+    "file": "icons/user/icon-empty.png",
+    "hash": "eef2c339d884e19bbe0463c28bcd1c24"
+  },
+  {
+    "file": "icons/user/icon-eye-close.png",
+    "hash": "5d7f48e7725436aebadda986aa82024e"
+  },
+  {
+    "file": "icons/user/icon-eye.png",
+    "hash": "e33e667a998a4473bbcf4152e6d414ae"
+  },
+  {
+    "file": "icons/user/icon-followed.png",
+    "hash": "0f87ebd2af87f61aeda1c3342f012344"
+  },
+  {
+    "file": "icons/user/icon-full-switch.png",
+    "hash": "33fde88b750945f3d3db59b49cdccd47"
+  },
+  {
+    "file": "icons/user/icon-gift-open-1.png",
+    "hash": "d85985b8730623a5070b26e655f5685f"
+  },
+  {
+    "file": "icons/user/icon-gift-open.png",
+    "hash": "98f02d384ef51e2e500914ffe1065ca2"
+  },
+  {
+    "file": "icons/user/icon-gift.png",
+    "hash": "34b475d32a872723ca0b0aab5e058130"
+  },
+  {
+    "file": "icons/user/icon-goods.png",
+    "hash": "d7328c4111c97e42f1df505d2565bc2a"
+  },
+  {
+    "file": "icons/user/icon-group.png",
+    "hash": "a2d6b95480c95a9d577f4022386e15ba"
+  },
+  {
+    "file": "icons/user/icon-help.png",
+    "hash": "51a2533cacdccc5a8e1a008ae5df1f45"
+  },
+  {
+    "file": "icons/user/icon-hidden.png",
+    "hash": "d78d35c341cb277b03ec6bb483af877d"
+  },
+  {
+    "file": "icons/user/icon-home.png",
+    "hash": "4b753bc44cb7200fb8f0dc70f9ea01a6"
+  },
+  {
+    "file": "icons/user/icon-hot-goods.png",
+    "hash": "08b3acc10be0998fc5bca107a8773638"
+  },
+  {
+    "file": "icons/user/icon-hot-shop.png",
+    "hash": "30a2c576f26b64565b3b0925b3c69e6d"
+  },
+  {
+    "file": "icons/user/icon-income.png",
+    "hash": "76283e3598df90ecd23c28725743fa73"
+  },
+  {
+    "file": "icons/user/icon-invite.png",
+    "hash": "bf0ab82706a1fd73edffd6ff52522107"
+  },
+  {
+    "file": "icons/user/icon-lang-black.png",
+    "hash": "dc103100af336ad13c4a30e1537a2a96"
+  },
+  {
+    "file": "icons/user/icon-lang.png",
+    "hash": "ed2eb4d174e2be8d397f85e60c33bb06"
+  },
+  {
+    "file": "icons/user/icon-like-gray.png",
+    "hash": "de900c1fc7bbd421876ee61fc9204ffe"
+  },
+  {
+    "file": "icons/user/icon-like-red.png",
+    "hash": "fec95906dcb0d3afadc44d3f7d2b227b"
+  },
+  {
+    "file": "icons/user/icon-like-w1.png",
+    "hash": "bd79da49ee3387fc4da287cc30553fb7"
+  },
+  {
+    "file": "icons/user/icon-like.png",
+    "hash": "294f8adb46c4afe1f42350c680c78758"
+  },
+  {
+    "file": "icons/user/icon-list.png",
+    "hash": "d2cc646791c38f46e250b4fef80743d8"
+  },
+  {
+    "file": "icons/user/icon-live-player.png",
+    "hash": "35c9cdccfbae16686081c64d07854581"
+  },
+  {
+    "file": "icons/user/icon-live-rank.png",
+    "hash": "dcd9f49d3bc3eef689eaa982d9141af9"
+  },
+  {
+    "file": "icons/user/icon-lock.png",
+    "hash": "ed84640b5f57933dca768b71c915d169"
+  },
+  {
+    "file": "icons/user/icon-logout-white.png",
+    "hash": "a5857b04d0e9ca21519d6244ef96385d"
+  },
+  {
+    "file": "icons/user/icon-logout.png",
+    "hash": "7b7fb1e68ba2d0e2875e3ed5e7cc34da"
+  },
+  {
+    "file": "icons/user/icon-machine.png",
+    "hash": "1d7a310ff7d40276bfead2c776747a79"
+  },
+  {
+    "file": "icons/user/icon-manage.png",
+    "hash": "945f5121ac74ba511f30deac94b27eaa"
+  },
+  {
+    "file": "icons/user/icon-merchant-active.png",
+    "hash": "7f90248f87e6d3a4a14d9d91a98e8bcb"
+  },
+  {
+    "file": "icons/user/icon-merchant.png",
+    "hash": "66c3c9b7ce679d48150db869230956cb"
+  },
+  {
+    "file": "icons/user/icon-message-1.png",
+    "hash": "07bb2dd8b20d73a9cd67bf31c61dde76"
+  },
+  {
+    "file": "icons/user/icon-message-2.png",
+    "hash": "4c6f1abd349e6d5cbb94e6d5510ed202"
+  },
+  {
+    "file": "icons/user/icon-message-3.png",
+    "hash": "a665e81188cc5e514735f1e88605c465"
+  },
+  {
+    "file": "icons/user/icon-message-4.png",
+    "hash": "a834c192cc04fc9677823628ccc20b0b"
+  },
+  {
+    "file": "icons/user/icon-message-5.png",
+    "hash": "b7f621be7779341375051f1957ce626b"
+  },
+  {
+    "file": "icons/user/icon-mobile.png",
+    "hash": "6e98da405ec553dc20cacfe1ba07dd08"
+  },
+  {
+    "file": "icons/user/icon-music.png",
+    "hash": "a95d063731a67d6d4e00501fff3b4553"
+  },
+  {
+    "file": "icons/user/icon-order.png",
+    "hash": "2eae913acdd21c6608e522f7b98222bc"
+  },
+  {
+    "file": "icons/user/icon-password.png",
+    "hash": "b4ab4d3914c30bb48968b309e056aae5"
+  },
+  {
+    "file": "icons/user/icon-payment.png",
+    "hash": "94f586f70459e82ac0008c24b9a786ed"
+  },
+  {
+    "file": "icons/user/icon-phone-no.png",
+    "hash": "ad02d7cb258e83d11dbf7a7c60c542c9"
+  },
+  {
+    "file": "icons/user/icon-phone-white.png",
+    "hash": "0bfecfa18374ab78dfbc86d6512baba4"
+  },
+  {
+    "file": "icons/user/icon-phone-yes.png",
+    "hash": "4668e8fa1cd849a306caa158f8b5fd0f"
+  },
+  {
+    "file": "icons/user/icon-phone.png",
+    "hash": "70914f19eaa3b47ffc5d417da0f72235"
+  },
+  {
+    "file": "icons/user/icon-photo.png",
+    "hash": "6fe01c49e23909f217ad4c8988145677"
+  },
+  {
+    "file": "icons/user/icon-play.png",
+    "hash": "abe50a165f2707b7ecb7cdbc3e146b20"
+  },
+  {
+    "file": "icons/user/icon-player.png",
+    "hash": "38f6dc5fbbb2e5e07c22360ad7de57ef"
+  },
+  {
+    "file": "icons/user/icon-power-1.png",
+    "hash": "4b7ccc91d80818d431536b925ff8358e"
+  },
+  {
+    "file": "icons/user/icon-publish.png",
+    "hash": "169058c4c83915274aac8d077bd233f2"
+  },
+  {
+    "file": "icons/user/icon-qrcode-gray.png",
+    "hash": "d501d13a7d1bce75bdb34a0c246696d3"
+  },
+  {
+    "file": "icons/user/icon-qrcode.png",
+    "hash": "5fa3ad2d59d949f6283884880ed72f14"
+  },
+  {
+    "file": "icons/user/icon-quota.png",
+    "hash": "7397c8874fdd2d9db660a44246875bfb"
+  },
+  {
+    "file": "icons/user/icon-reback.png",
+    "hash": "347b534b6d7bef951be5ae6a03cca73f"
+  },
+  {
+    "file": "icons/user/icon-recharge.png",
+    "hash": "5a925afa586f0ddb0dd84e70440a2b5f"
+  },
+  {
+    "file": "icons/user/icon-return.png",
+    "hash": "9eac45ce98360158e533e67a17506d09"
+  },
+  {
+    "file": "icons/user/icon-scan.png",
+    "hash": "cacf18127c291aa742d9e3f436aa834a"
+  },
+  {
+    "file": "icons/user/icon-search.png",
+    "hash": "eaee7dc541c4b124cc7f0eb8d0579423"
+  },
+  {
+    "file": "icons/user/icon-select-music.png",
+    "hash": "4a1961a64eb79e0198e79bf0b094fe1b"
+  },
+  {
+    "file": "icons/user/icon-selected.png",
+    "hash": "a1f1995f5a5a60f232c024343f226a31"
+  },
+  {
+    "file": "icons/user/icon-set.png",
+    "hash": "a91aabee59a90d43bf120cd32638cae7"
+  },
+  {
+    "file": "icons/user/icon-setting-video.png",
+    "hash": "66730c0ce6b9ef0f0fd9c7371d02a180"
+  },
+  {
+    "file": "icons/user/icon-setting.png",
+    "hash": "f445d7a966ecec61ec2b2c767f60567a"
+  },
+  {
+    "file": "icons/user/icon-share-video.png",
+    "hash": "87fedff06f8a077c416dd99b30bfa1d2"
+  },
+  {
+    "file": "icons/user/icon-share.png",
+    "hash": "119847f4f3d57aa60cd2a4b89c7b66f9"
+  },
+  {
+    "file": "icons/user/icon-shop-setting.png",
+    "hash": "e47c4a0077c73e0600b818fcd90d01fb"
+  },
+  {
+    "file": "icons/user/icon-shop.png",
+    "hash": "6467b0ef9ed1b58f78ba8246de798956"
+  },
+  {
+    "file": "icons/user/icon-shops.png",
+    "hash": "6b55bd42b79764c9a553209cc11b40d0"
+  },
+  {
+    "file": "icons/user/icon-show.png",
+    "hash": "63c1602d29fcf870d47a5ee3c09e100b"
+  },
+  {
+    "file": "icons/user/icon-star.png",
+    "hash": "f070505407784b23fc74fa6ca7449833"
+  },
+  {
+    "file": "icons/user/icon-switch-media.png",
+    "hash": "fe3a4dd862b7f9c38bc4fd85ecded804"
+  },
+  {
+    "file": "icons/user/icon-task-day.png",
+    "hash": "4f99b26fa7563abc38814f1f2e9561cc"
+  },
+  {
+    "file": "icons/user/icon-task.png",
+    "hash": "8c56fbcdf1373282344013ff018c699a"
+  },
+  {
+    "file": "icons/user/icon-tasks.png",
+    "hash": "1cc1ddfafe19bb25a4044dc06ddc3b8c"
+  },
+  {
+    "file": "icons/user/icon-trade-log.png",
+    "hash": "f3fd4d1788608926a4ad7dac6260d3a9"
+  },
+  {
+    "file": "icons/user/icon-trade-order.png",
+    "hash": "54c7422d5fb5db6f1e3f0f4930a030e8"
+  },
+  {
+    "file": "icons/user/icon-up-arrow.png",
+    "hash": "20f5cf37821d08ffe643fe0cf7cf21bb"
+  },
+  {
+    "file": "icons/user/icon-upgrade.png",
+    "hash": "5aa90f5df01324167cd44365a6843da6"
+  },
+  {
+    "file": "icons/user/icon-user-add.png",
+    "hash": "b0aee1528c1fd65da34f5b858eefabd6"
+  },
+  {
+    "file": "icons/user/icon-user-follow.png",
+    "hash": "4a80b06b1b023efd0d1096843fa8ac51"
+  },
+  {
+    "file": "icons/user/icon-user-no.png",
+    "hash": "9780609f7c56646a88256d9aad66779a"
+  },
+  {
+    "file": "icons/user/icon-user-open.png",
+    "hash": "f59495a314ac52e920bc0b37c74c9625"
+  },
+  {
+    "file": "icons/user/icon-user.png",
+    "hash": "37b259af5900955293cc4e964ef8ddb7"
+  },
+  {
+    "file": "icons/user/icon-video-yes.png",
+    "hash": "a8cac29d4837186f288086c4232cc971"
+  },
+  {
+    "file": "icons/user/icon-video.png",
+    "hash": "38ba95f5336caa1d10349ea87770afc3"
+  },
+  {
+    "file": "icons/user/icon-voice-red.gif",
+    "hash": "a5774c1260fd6071fc043fc94caad0ab"
+  },
+  {
+    "file": "icons/user/icon-voice.gif",
+    "hash": "0105161943818e6778a1d3625f94c770"
+  },
+  {
+    "file": "icons/user/is_default.png",
+    "hash": "d187ea567796747142426784753b115d"
+  },
+  {
+    "file": "icons/user/jap-flag.png",
+    "hash": "5ac5e61b29a6a3cbfa2bedd75edd6cd7"
+  },
+  {
+    "file": "icons/user/lang.png",
+    "hash": "660ee90f07f26f1ccc151321ef701af1"
+  },
+  {
+    "file": "icons/user/list.png",
+    "hash": "d637a1c1eb7407a4a44c24a4ea906dc2"
+  },
+  {
+    "file": "icons/user/lock-open.png",
+    "hash": "d2b82d44d39d886b73c8b6aa39a4f5d6"
+  },
+  {
+    "file": "icons/user/machine.png",
+    "hash": "813583d5df4ad0c49f04ca2596acd34b"
+  },
+  {
+    "file": "icons/user/male.png",
+    "hash": "d3f313ea986663f26c3792a6719188eb"
+  },
+  {
+    "file": "icons/user/map.png",
+    "hash": "f63a076e17fcc0849e42bb79ed83ff78"
+  },
+  {
+    "file": "icons/user/menu.png",
+    "hash": "2143b55914303c4b16965ecf8823ca83"
+  },
+  {
+    "file": "icons/user/merchant-apply.png",
+    "hash": "73eb10bb4f28df944a4dc22c40f51de7"
+  },
+  {
+    "file": "icons/user/merchant.png",
+    "hash": "78237955428426d334a732423027c9ef"
+  },
+  {
+    "file": "icons/user/no-data.png",
+    "hash": "c29e5c8f75bdb583d10d5ae184c30e09"
+  },
+  {
+    "file": "icons/user/notice.png",
+    "hash": "3ddd419515cdf0eef4ffbbde2a924e8f"
+  },
+  {
+    "file": "icons/user/phone.png",
+    "hash": "1df1de67d593c43824400007eae05da2"
+  },
+  {
+    "file": "icons/user/point.png",
+    "hash": "f5062153b3c54d93ed390c7a81c6e399"
+  },
+  {
+    "file": "icons/user/private-chat.png",
+    "hash": "1ff10acae845e140a19f0de4acb93cf1"
+  },
+  {
+    "file": "icons/user/profile.png",
+    "hash": "213b9b756bb5ff50084984f688c53f75"
+  },
+  {
+    "file": "icons/user/profile1.png",
+    "hash": "36e043409d9f140f507f403509fa8832"
+  },
+  {
+    "file": "icons/user/qrcode-1.png",
+    "hash": "6cb20e588a8ed4a96e26f9f24aae380c"
+  },
+  {
+    "file": "icons/user/qrcode-bg.png",
+    "hash": "e4b161f5dec24747f93bb6fdda13abf4"
+  },
+  {
+    "file": "icons/user/rank.png",
+    "hash": "46c6b9d97b6a79aee917dde4e65ef3f3"
+  },
+  {
+    "file": "icons/user/resource.png",
+    "hash": "93c698bfa6f8e51c8af8b33f6baff37a"
+  },
+  {
+    "file": "icons/user/score.png",
+    "hash": "6d68834fa80b476009c174bd83252dac"
+  },
+  {
+    "file": "icons/user/search.png",
+    "hash": "ece847519ed71913a5f63bc8aeae1e5a"
+  },
+  {
+    "file": "icons/user/sex-2.png",
+    "hash": "ade61382e2ecd4837963b03a4415e9e8"
+  },
+  {
+    "file": "icons/user/share.png",
+    "hash": "7061ea9e6caeaaa6075b79251f2d5680"
+  },
+  {
+    "file": "icons/user/shop.png",
+    "hash": "6947fa1ef72ae34b501a7b71c53d8ae5"
+  },
+  {
+    "file": "icons/user/sk-flag.png",
+    "hash": "5e6c7e3bad60859538e6aec7d4392a1e"
+  },
+  {
+    "file": "icons/user/sp-flag.png",
+    "hash": "de50a969192fded953b04a658a2e4cd9"
+  },
+  {
+    "file": "icons/user/star.png",
+    "hash": "5635acad92f9b3e3987f252dde7983f3"
+  },
+  {
+    "file": "icons/user/support.png",
+    "hash": "003973b39524d2b92378bd89d0929876"
+  },
+  {
+    "file": "icons/user/task.png",
+    "hash": "2d693bb34463c691dac047cc9061604a"
+  },
+  {
+    "file": "icons/user/team.png",
+    "hash": "6ce6db8628ef782507626864ee6a43ab"
+  },
+  {
+    "file": "icons/user/trade.png",
+    "hash": "051621ccab7e85ac593d79c9db7f988a"
+  },
+  {
+    "file": "icons/user/upgrade.png",
+    "hash": "9658845982bd79a601f6dade9ac9bc75"
+  },
+  {
+    "file": "icons/user/usdt.png",
+    "hash": "f8b75ca63a7cfd6e022b234c1e240dee"
+  },
+  {
+    "file": "icons/user/user-setting.png",
+    "hash": "b5b60f5d651bf4f10d081572ee11f7af"
+  },
+  {
+    "file": "icons/user/voice.png",
+    "hash": "b8d7d828777fb8609fbd3f6f57fd5bbb"
+  },
+  {
+    "file": "icons/user/wait_score.png",
+    "hash": "876252a87df34ef0fde9e186929d9811"
+  },
+  {
+    "file": "icons/user/wallet.png",
+    "hash": "132b82c6290f6afd87281b42845fa36a"
+  },
+  {
+    "file": "icons/user/zh-tw-flag.png",
+    "hash": "75792ce36bfb3bc54d940d0105438712"
+  },
+  {
+    "file": "icons/video-task.png",
+    "hash": "f744553a53a0b99a7834635fb63cb14f"
+  },
+  {
+    "file": "icons/video/change-camera.png",
+    "hash": "8ece0130380319bd258c5eae704bb941"
+  },
+  {
+    "file": "icons/video/chat.png",
+    "hash": "0cd045304917478618735ae5a98bb675"
+  },
+  {
+    "file": "icons/video/close.png",
+    "hash": "e22364060ed665bb28cbf893cae59487"
+  },
+  {
+    "file": "icons/video/hashtag.png",
+    "hash": "39f15eb8d358539f5f910be88d6e55ef"
+  },
+  {
+    "file": "icons/video/image-inactive.png",
+    "hash": "200246a191d1d75f5267f7b917646065"
+  },
+  {
+    "file": "icons/video/image.png",
+    "hash": "db280c7e6ddfe0616dabfb9525eca55c"
+  },
+  {
+    "file": "icons/video/lock.png",
+    "hash": "d55ab62975a5077cb31f1b17cade45b2"
+  },
+  {
+    "file": "icons/video/music-note.png",
+    "hash": "9d5fdfedc8a3c9fa720cf0c839aec967"
+  },
+  {
+    "file": "icons/video/music.png",
+    "hash": "71905b04cf346c0794905b9a3e5d831d"
+  },
+  {
+    "file": "icons/video/post.png",
+    "hash": "e8fe259b90a1c9b30ce4dc8702823f3e"
+  },
+  {
+    "file": "icons/video/select-photo.png",
+    "hash": "71f975011d380ad821f4cef4d43a9325"
+  },
+  {
+    "file": "icons/video/select-video.png",
+    "hash": "c61881b46cca549e87d7a1abb2109eb5"
+  },
+  {
+    "file": "icons/video/upload.png",
+    "hash": "9240cbcb1f222bd43d0759aac179c76d"
+  },
+  {
+    "file": "icons/video/video-inactive.png",
+    "hash": "4dd3d20c8120f373935a91938f706580"
+  },
+  {
+    "file": "icons/video/video.png",
+    "hash": "9aef31ca2288aeff242bcd165768bbe7"
+  },
+  {
+    "file": "icons/wallet/eye-close.png",
+    "hash": "4a9e8821bd2900bd92a3da572959c0d4"
+  },
+  {
+    "file": "icons/wallet/eye.png",
+    "hash": "487d5738513a867c202d51bfd45c2a32"
+  },
+  {
+    "file": "icons/wallet/filter.png",
+    "hash": "3d606ba36f2639ecaf6fe3143aa6a75a"
+  },
+  {
+    "file": "icons/wallet/mvt.png",
+    "hash": "e1c64faff97e0d8d7c4fdaa29aef3018"
+  },
+  {
+    "file": "icons/wallet/recharge.png",
+    "hash": "3ade23599e7f0c536d792c71308a111a"
+  },
+  {
+    "file": "icons/wallet/transfer.png",
+    "hash": "e2a3e7624f2366aa4f37344241dfbbe8"
+  },
+  {
+    "file": "icons/wallet/usdt-mvt.png",
+    "hash": "55aabdaf2a9218488701f9c601ae3d04"
+  },
+  {
+    "file": "icons/wallet/usdt.png",
+    "hash": "d960badf2e7c66b4beecf65892b87358"
+  },
+  {
+    "file": "images/1024x1024.png",
+    "hash": "d12afeed4f258cdac8196f9719db0b81"
+  },
+  {
+    "file": "images/avatar/1.jpeg",
+    "hash": "043e2fb9ebf6aca7a3e6c25db2f8edbd"
+  },
+  {
+    "file": "images/avatar/2.jpeg",
+    "hash": "6f7323c004e39b0cac368228aa1c88d3"
+  },
+  {
+    "file": "images/avatar/3.jpeg",
+    "hash": "a40326ae8ce707f6c4ea8c46b6ba5571"
+  },
+  {
+    "file": "images/avatar/4.jpeg",
+    "hash": "d0ba0c5e379375f4a4f8474df791b304"
+  },
+  {
+    "file": "images/avatar/5.jpeg",
+    "hash": "7e21d5cd3772ad214ba357efa54f064b"
+  },
+  {
+    "file": "images/icon-login-bg.png",
+    "hash": "95e046992d027ed6bb86dc4ae2a8ea84"
+  },
+  {
+    "file": "images/icon-login-bg1.png",
+    "hash": "85779a48b012c0a9b4e4cd071e3f765c"
+  },
+  {
+    "file": "images/icon-logo.png",
+    "hash": "7c416a522be62b86332e5967203a2980"
+  },
+  {
+    "file": "images/live-bg.png",
+    "hash": "296b055a637c533eaff2dcd5f45f6cd0"
+  },
+  {
+    "file": "images/login-bg.png",
+    "hash": "073b1ca6d697f251fd6dfb7dd1639076"
+  },
+  {
+    "file": "images/logo.png",
+    "hash": "2de8b39004ceaca02f8cc4d8edc2b857"
+  },
+  {
+    "file": "images/logo1.png",
+    "hash": "36af969d5149a96aaea286ce899b7052"
+  },
+  {
+    "file": "images/pay/icon_alipay.png",
+    "hash": "7649572797b6f73ba4df5a134861ebce"
+  },
+  {
+    "file": "images/pay/icon_balance.png",
+    "hash": "8c6f9e96c45c7a73f935848c7144a63e"
+  },
+  {
+    "file": "images/pay/icon_bank.png",
+    "hash": "75ec02b7cfc974abf71c729e261cde9c"
+  },
+  {
+    "file": "images/pay/icon_usdt.png",
+    "hash": "7aeb88de6a94d46b82f8261ccebef27d"
+  },
+  {
+    "file": "images/pay/icon_wxpay.png",
+    "hash": "e47ffde650096ea505f69cbc71f31d96"
+  },
+  {
+    "file": "images/video-bg.png",
+    "hash": "46f617f13491b240d38e7a13e4906811"
+  },
+  {
+    "file": "images/video.png",
+    "hash": "1b6f55b4269cfeaa270f6cadad63ae6e"
+  },
+  {
+    "file": "images/video1.png",
+    "hash": "1ff3bdf13e143a0e1cc9f67e723dfc7f"
+  },
+  {
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
+    "file": "index.css",
+    "hash": "73ae6c583d02d78f81e3f18860a2899a"
+  },
+  {
+    "file": "index.html",
+    "hash": "25aba4fbb9d51d694ed95d87529bfb91"
+  },
+  {
+    "file": "js/chunk-vendors.561a03bc.js",
+    "hash": "3a6be76a1d0c001378a15e2b70868fe7"
+  },
+  {
+    "file": "js/echarts.min.js",
+    "hash": "f0a6eb86484935fa99f43cb6867ba30e"
+  },
+  {
+    "file": "js/index.a290c007.js",
+    "hash": "a1295d7d4377af48df7acba8a31607b2"
+  },
+  {
+    "file": "js/index.js",
+    "hash": "4276399557b75ea78ea50d79c374b5a3"
+  },
+  {
+    "file": "js/pages-account-index.071b94e8.js",
+    "hash": "33d3e2fbaf412dc777f13f07a060fe16"
+  },
+  {
+    "file": "js/pages-article-detail.e478675d.js",
+    "hash": "47f0213a548315c9c3f2c45818d8813d"
+  },
+  {
+    "file": "js/pages-article-detail~pages-article-index~pages-chat-friend~pages-chat-group~pages-chat-index~pages-f~3675e065.9c855854.js",
+    "hash": "33e7a9a16304a794c98690c948fede8d"
+  },
+  {
+    "file": "js/pages-article-detail~pages-article-index~pages-chat-friend~pages-chat-group~pages-chat-index~pages-i~cdc14d0d.3c7082f7.js",
+    "hash": "803d7e2ee0ca2ce88fb91da6b94bc74f"
+  },
+  {
+    "file": "js/pages-article-detail~pages-message-history.8ee9122f.js",
+    "hash": "fffc2c7971d149b6438b71a83c6b1f53"
+  },
+  {
+    "file": "js/pages-article-index.5829ffcd.js",
+    "hash": "e8114bcd70fb91cc209a6ebac9827c4b"
+  },
+  {
+    "file": "js/pages-chat-chat.8054c350.js",
+    "hash": "c4ce7ce4e089553d92db7f49ab945171"
+  },
+  {
+    "file": "js/pages-chat-friend.14a78364.js",
+    "hash": "412d3afd8fa5e0c3ed6eedc1852b94e8"
+  },
+  {
+    "file": "js/pages-chat-friend~pages-chat-group~pages-chat-index~pages-friend-index~pages-friend-list~pages-index~04262341.40bc4c32.js",
+    "hash": "ba13ff4fc7559929594a7dd8b2427424"
+  },
+  {
+    "file": "js/pages-chat-group.ede47433.js",
+    "hash": "08d1ade886cec2c3655a9fe174503200"
+  },
+  {
+    "file": "js/pages-chat-group~pages-chat-index~pages-index-index~pages-live-index~pages-login-forget~pages-login-~4ed6c7f5.65180d2a.js",
+    "hash": "cebf23020ba7c88e5774256d4e563b2a"
+  },
+  {
+    "file": "js/pages-chat-index.14fefa79.js",
+    "hash": "7380090795645995d50aa0fdf50b44da"
+  },
+  {
+    "file": "js/pages-friend-index.0c80e4ca.js",
+    "hash": "cbcf9c96687b77fb1261bfd1a4a54b6e"
+  },
+  {
+    "file": "js/pages-friend-list.139a67d7.js",
+    "hash": "23c414d33a89a56398690957792cb5bd"
+  },
+  {
+    "file": "js/pages-index-index.0d14e0f9.js",
+    "hash": "28d3378bda1c7a9a456c925bf4e77c43"
+  },
+  {
+    "file": "js/pages-live-end.a76bda6b.js",
+    "hash": "d5bf21b888770d504fe85e36c24fca91"
+  },
+  {
+    "file": "js/pages-live-index.2677c901.js",
+    "hash": "b5da7ab2cc222c1855e21e2675f871e7"
+  },
+  {
+    "file": "js/pages-login-forget.f886e014.js",
+    "hash": "29460af0121fc90158bb71c5531fbb6b"
+  },
+  {
+    "file": "js/pages-login-login.c3d7ea6b.js",
+    "hash": "4ceca335df44d91ebb169740a6d8a1b6"
+  },
+  {
+    "file": "js/pages-login-login~pages-machine-buy~pages-register-index~pages-user-profile-email~pages-user-profile~5d2b1856.50a7d822.js",
+    "hash": "b087baed51de23aa80b6110ce63d3562"
+  },
+  {
+    "file": "js/pages-machine-box.ff29abde.js",
+    "hash": "122db75199509162c16775f9198d86b9"
+  },
+  {
+    "file": "js/pages-machine-buy.4cc85bff.js",
+    "hash": "b46eb43778bd3bdf8c0995131ba2f93d"
+  },
+  {
+    "file": "js/pages-machine-history.384a2190.js",
+    "hash": "2c7a13fd2f4eb4cfb74af54087637e19"
+  },
+  {
+    "file": "js/pages-machine-index.ee547e53.js",
+    "hash": "557828c393ba2a3df784a4118f623852"
+  },
+  {
+    "file": "js/pages-machine-index~pages-shop-index.0e067d46.js",
+    "hash": "a66f70c1c47ed73ab0e74873dd51e7ea"
+  },
+  {
+    "file": "js/pages-merchant-account-record.74df4320.js",
+    "hash": "9d057e0ad0821a4a7c306930a05dee57"
+  },
+  {
+    "file": "js/pages-merchant-account-record~pages-merchant-withdraw-record~pages-trade-chat-index~pages-trade-rech~acc65cb6.e0b6962f.js",
+    "hash": "46c30177182d1a64a04ceefd84cd93e9"
+  },
+  {
+    "file": "js/pages-merchant-apply.259d91e0.js",
+    "hash": "58409ebf6140ccb0442f2cf8d988bd0a"
+  },
+  {
+    "file": "js/pages-merchant-home.a3d5c21c.js",
+    "hash": "e1e2f92010063b61d3fdf80d0b662930"
+  },
+  {
+    "file": "js/pages-merchant-home~pages-shop-goods-detail.f35829f3.js",
+    "hash": "df63a17d3f903becfb91301c304fe4b6"
+  },
+  {
+    "file": "js/pages-merchant-index.b1984b69.js",
+    "hash": "5764b500b5a7acc3c57ae54b91cd2acd"
+  },
+  {
+    "file": "js/pages-merchant-list.502faf92.js",
+    "hash": "a43661412f23ebbc0d92f5571b5ead75"
+  },
+  {
+    "file": "js/pages-merchant-list~pages-shop-goods-index~pages-shop-index.b34bfc0d.js",
+    "hash": "df0c3637dfbc3a72f01c8e7f7b8a7a46"
+  },
+  {
+    "file": "js/pages-merchant-profile.80c24eab.js",
+    "hash": "8aa09e07833394cb11e224403dc634e1"
+  },
+  {
+    "file": "js/pages-merchant-qrcode.aec14be4.js",
+    "hash": "eb4c08ba9d164ad5a7db05bbdd2bb7b2"
+  },
+  {
+    "file": "js/pages-merchant-withdraw-record.58a6c692.js",
+    "hash": "7186d9d937eb7a6280b126230030d4e4"
+  },
+  {
+    "file": "js/pages-merchant-withdraw-usdt.c91690a7.js",
+    "hash": "d7de1f3930f04d731ec838fba34c2e41"
+  },
+  {
+    "file": "js/pages-message-history.93c18d28.js",
+    "hash": "247c7593dc278d72cd59616aeecf7167"
+  },
+  {
+    "file": "js/pages-message-index.3053e866.js",
+    "hash": "501dfa8689be59d289a7baa425c95f10"
+  },
+  {
+    "file": "js/pages-ranks-index.2542f2a1.js",
+    "hash": "06240ad8c8883d1f07b347b961ae210b"
+  },
+  {
+    "file": "js/pages-register-index.b6be7a6e.js",
+    "hash": "5b7a6d2d2274ec86b366ff1fb4704ffd"
+  },
+  {
+    "file": "js/pages-shop-address.d4deef29.js",
+    "hash": "fd745e1e2095d9030192eafb4ea0f6bc"
+  },
+  {
+    "file": "js/pages-shop-carts.6acaa488.js",
+    "hash": "cc833d39fd188fa60553a6e28ea558b7"
+  },
+  {
+    "file": "js/pages-shop-goods-detail.73a83cb4.js",
+    "hash": "d60152cc00baef1e3254500af42b4c8e"
+  },
+  {
+    "file": "js/pages-shop-goods-index.e30653ed.js",
+    "hash": "a2538708905aef2fa5b421623dd0228d"
+  },
+  {
+    "file": "js/pages-shop-index.a9eece92.js",
+    "hash": "1b223e263292e5d649adee319cd99cc0"
+  },
+  {
+    "file": "js/pages-shop-order-after.b44c52c5.js",
+    "hash": "ac01077af8cb092827e5bf2df013cfa6"
+  },
+  {
+    "file": "js/pages-shop-order-buy.335f35a9.js",
+    "hash": "4d02b46170970f60c3f2f1dfcf1b9825"
+  },
+  {
+    "file": "js/pages-shop-order-detail.3599db89.js",
+    "hash": "a96f70f349d16f3cbeaf04c85aa3faf9"
+  },
+  {
+    "file": "js/pages-shop-order-detail~pages-shop-order-track.e14f547e.js",
+    "hash": "4c584f094dc51cf856bbcbb89c1a8ffc"
+  },
+  {
+    "file": "js/pages-shop-order-index.ecde46ac.js",
+    "hash": "f033cf7d57837c2cd2d1cc16d163abc5"
+  },
+  {
+    "file": "js/pages-shop-order-track.8b302a5b.js",
+    "hash": "2133ff28127131c670836c1978acc3e4"
+  },
+  {
+    "file": "js/pages-task-index.c88c833f.js",
+    "hash": "1627212316c773ef9e22955878c35a5e"
+  },
+  {
+    "file": "js/pages-trade-apply.e91a99bf.js",
+    "hash": "295ae1af87fdb233a362da961b48e9e1"
+  },
+  {
+    "file": "js/pages-trade-center.d89bd9c7.js",
+    "hash": "f1276bf452c9bac080bb3ea996d4a4f8"
+  },
+  {
+    "file": "js/pages-trade-chat-index.1bd8fa30.js",
+    "hash": "3599d92df94a0c2c205e6e8b24b0e431"
+  },
+  {
+    "file": "js/pages-trade-index.69505c0c.js",
+    "hash": "9639cb0de0fdd104ad6dbea94cbb2756"
+  },
+  {
+    "file": "js/pages-trade-order-cancel.dc8b8bec.js",
+    "hash": "17252737970ca44ae409e95799597cc1"
+  },
+  {
+    "file": "js/pages-trade-order-detail.ac466f10.js",
+    "hash": "72d3b19c122cd58f91320bea76a05990"
+  },
+  {
+    "file": "js/pages-trade-order-index.a5fa06b4.js",
+    "hash": "7cb02e215de8adb95d504a4f5369d864"
+  },
+  {
+    "file": "js/pages-trade-order-sell.d11f9b63.js",
+    "hash": "b1a18c20f7b9ae138a4b2c0f92accf8e"
+  },
+  {
+    "file": "js/pages-trade-order-submit.51072c4e.js",
+    "hash": "f9f622093a5c86211f817c8108a8d556"
+  },
+  {
+    "file": "js/pages-trade-orders.d25c0005.js",
+    "hash": "719afb71f722b2b6b17f14d674ee33a5"
+  },
+  {
+    "file": "js/pages-trade-recharge-quota.2c146629.js",
+    "hash": "1f0e7041351a2e1319b9927712e8eeaa"
+  },
+  {
+    "file": "js/pages-trade-recharge-record.a5ebc67f.js",
+    "hash": "79986b12ef3a26772eb229c2b7c6cb40"
+  },
+  {
+    "file": "js/pages-trade-withdraw-quota.065d6fb4.js",
+    "hash": "6192671440c613d6a5f6604676e8c3f2"
+  },
+  {
+    "file": "js/pages-trade-withdraw-record.32773692.js",
+    "hash": "3bff345c524d4a6a78cf7676bbf56e0f"
+  },
+  {
+    "file": "js/pages-trade-withdraw-usdt.3af762fd.js",
+    "hash": "ff1e60e35fb3f233eaeb6681cc539624"
+  },
+  {
+    "file": "js/pages-user-account.98245b83.js",
+    "hash": "a7161b519374f34961d9c979ce657e77"
+  },
+  {
+    "file": "js/pages-user-custom.f462ec41.js",
+    "hash": "f53be521f07d0af4ea3a5abd08664fb2"
+  },
+  {
+    "file": "js/pages-user-home.d2a6f55e.js",
+    "hash": "b138114734f9936c50708c39fb9c4a9d"
+  },
+  {
+    "file": "js/pages-user-index.7517502d.js",
+    "hash": "49b6718ca295c632c3d87fb72e03eab8"
+  },
+  {
+    "file": "js/pages-user-manager.8c8cd275.js",
+    "hash": "06c31f36557fff6838b18bfd9202f3b2"
+  },
+  {
+    "file": "js/pages-user-nodes.25e70724.js",
+    "hash": "4d5a557c683549bd161c0cd0057502a3"
+  },
+  {
+    "file": "js/pages-user-profile-email.6a0db41e.js",
+    "hash": "58d6884c2450148ec2fa9b3abf449659"
+  },
+  {
+    "file": "js/pages-user-profile-mobile.a9db2c77.js",
+    "hash": "a3fbfbf417b1fabbc437d7369112829c"
+  },
+  {
+    "file": "js/pages-user-profile-password.d8d88519.js",
+    "hash": "3709f466a7c364fe3da78091606cf8bc"
+  },
+  {
+    "file": "js/pages-user-profile-pay_password.15838ca8.js",
+    "hash": "e49fd4f0a57f428d32a77a07ac05de68"
+  },
+  {
+    "file": "js/pages-user-profile-wallet.f6d37b5c.js",
+    "hash": "25b94127938b24ed3118d9eb26a8d775"
+  },
+  {
+    "file": "js/pages-user-profile.f9c698e6.js",
+    "hash": "93635d2b2aa22d8625cbf9b8aac4f060"
+  },
+  {
+    "file": "js/pages-user-share.8711c774.js",
+    "hash": "eca03c7748a54ceb7d9910559624eb91"
+  },
+  {
+    "file": "js/pages-user-task.da526932.js",
+    "hash": "75ef1c01172d9ecac04b54956e9e0534"
+  },
+  {
+    "file": "js/pages-user-team.a604bea3.js",
+    "hash": "4594d90a1a6e1b67f100a5a6d46f4bf2"
+  },
+  {
+    "file": "js/pages-user-upgrade.be781539.js",
+    "hash": "2b8a16dfacf5e915af42213a3d925e74"
+  },
+  {
+    "file": "js/pages-video-index.804a1130.js",
+    "hash": "eb963feabf6fdd16b10df3e05af5f007"
+  },
+  {
+    "file": "js/pages-video-play.f8436a6a.js",
+    "hash": "8095ba0494ea39b58b7efa0b2f94c644"
+  },
+  {
+    "file": "js/pages-video-video-player.688d7eb0.js",
+    "hash": "b9595c434c81ac44bc6bc004c9987078"
+  },
+  {
+    "file": "js/pages-wallet-exchange-xd.d64893d4.js",
+    "hash": "cc6a3156ecc04fc86f6043bae9eef68f"
+  },
+  {
+    "file": "js/pages-wallet-index.bcb0ef8a.js",
+    "hash": "5a0d9d98f5e5f6e3cc32ff65d663344b"
+  },
+  {
+    "file": "js/pages-wallet-payment.5fb46e16.js",
+    "hash": "1e43844fe082d2564cc9c02c26cd2038"
+  },
+  {
+    "file": "js/pages-wallet-power.a771b73e.js",
+    "hash": "dec7ebe3b055599c6bd16013c9f536d8"
+  },
+  {
+    "file": "js/pages-wallet-recharge-record.bb2caf5f.js",
+    "hash": "2703928d49cc93108426f8f9e535e5a5"
+  },
+  {
+    "file": "js/pages-wallet-recharge-usdt.a6e36720.js",
+    "hash": "e205c4729e9483294a58445961d9d93e"
+  },
+  {
+    "file": "js/pages-wallet-recharge-xd.72103b09.js",
+    "hash": "ab6e1fe51205de0f5ebad1335e5efae7"
+  },
+  {
+    "file": "js/pages-wallet-record.a334c899.js",
+    "hash": "93a4664c259b53772f72dc92668e37f0"
+  },
+  {
+    "file": "js/pages-wallet-score.0ae1cc18.js",
+    "hash": "1fc47655c7691bc42cc263df99a5ab89"
+  },
+  {
+    "file": "js/pages-wallet-transfer-usdt.852bd8e3.js",
+    "hash": "7095c390433ddf7487cd24a0d68490e4"
+  },
+  {
+    "file": "js/pages-wallet-usdt.4bb05b32.js",
+    "hash": "6c71e3856da9bed635287277c01e2ec9"
+  },
+  {
+    "file": "js/pages-wallet-wait_score.86be3e73.js",
+    "hash": "68a181b72393780f5ae1d186bbfe34d4"
+  },
+  {
+    "file": "js/pages-wallet-withdraw-record.82910a5f.js",
+    "hash": "c8ec5007c4d290a8e346d3aa43321431"
+  },
+  {
+    "file": "js/pages-wallet-withdraw-usdt.22778109.js",
+    "hash": "7cc7083a5d10336dc8a7fda401732bf7"
+  },
+  {
+    "file": "js/pages-wallet-xd.bbc19671.js",
+    "hash": "8a7e90b35eee638b30cb09a965edaee0"
+  },
+  {
+    "file": "mp3/chat.mp3",
+    "hash": "e2966f27377feaa130e80895e1b9923e"
+  },
+  {
+    "file": "mp3/order.mp3",
+    "hash": "3f1fe127c88eefb495aeccb83e0fdbe8"
+  },
+  {
+    "file": "static/css/tailwind.css",
+    "hash": "9cf0ad9bb110a4b66c3905c6f79c4bf7"
+  },
+  {
+    "file": "static/icons/arrow-down.png",
+    "hash": "f115aed6b0a24f6ce8e762a87a8cf676"
+  },
+  {
+    "file": "static/icons/arrow-left.png",
+    "hash": "ca9ce152c37563ffc3ae7cbafc7408ad"
+  },
+  {
+    "file": "static/icons/arrow-right.png",
+    "hash": "2183a3cafbbae57dc18a3251fdb87c3d"
+  },
+  {
+    "file": "static/icons/carts-active.png",
+    "hash": "06be77d74bd26f541fef494900670896"
+  },
+  {
+    "file": "static/icons/carts.png",
+    "hash": "d9beabeb8f2310ab605f0afdcb6e2f82"
+  },
+  {
+    "file": "static/icons/chat/add-member.png",
+    "hash": "799d0fc6066d09a0893dd5b1eb35408e"
+  },
+  {
+    "file": "static/icons/chat/all-read.png",
+    "hash": "0afc935a25dcc795ff12f35f39428937"
+  },
+  {
+    "file": "static/icons/chat/camera.png",
+    "hash": "41f3673a8ed8ca9f4ae54699f5def82e"
+  },
+  {
+    "file": "static/icons/chat/close-modal.png",
+    "hash": "098e3284ee2f5b290714cc89920c7f9b"
+  },
+  {
+    "file": "static/icons/chat/confirm-clear.png",
+    "hash": "706e89af75cced91d72a1d3ee673d628"
+  },
+  {
+    "file": "static/icons/chat/download-qr.png",
+    "hash": "bd5534ed2da19632e7c9f6e1660d1b6a"
+  },
+  {
+    "file": "static/icons/chat/edit-group.png",
+    "hash": "61a971ab71a8a899ade5f6700d2508e8"
+  },
+  {
+    "file": "static/icons/chat/empty.png",
+    "hash": "1274bc9844fe46712abfe45a146a932d"
+  },
+  {
+    "file": "static/icons/chat/group-manage.png",
+    "hash": "9f5dc79d0211297fa2d50bb563b4dd33"
+  },
+  {
+    "file": "static/icons/chat/group-member.png",
+    "hash": "45ebf0fe695b5b4993a6d7a661d63242"
+  },
+  {
+    "file": "static/icons/chat/group.png",
+    "hash": "2dfa7657c0540c79b0d4ea36e49420b4"
+  },
+  {
+    "file": "static/icons/chat/key.png",
+    "hash": "e84626448c1bde84b8d804b15770f0ce"
+  },
+  {
+    "file": "static/icons/chat/manage-member.png",
+    "hash": "2dfa7657c0540c79b0d4ea36e49420b4"
+  },
+  {
+    "file": "static/icons/chat/menu-dots.png",
+    "hash": "963c6c7a8e0b20947fa9acdfe3b1c2bf"
+  },
+  {
+    "file": "static/icons/chat/more-gray.png",
+    "hash": "d9a3936e54e33da5987bc9acf0bcfe78"
+  },
+  {
+    "file": "static/icons/chat/more.png",
+    "hash": "59729a1ba05ffa18aab0857917f2496f"
+  },
+  {
+    "file": "static/icons/chat/my-nickname.png",
+    "hash": "5c9e6dd867a39846fa83ed4cb3b31fda"
+  },
+  {
+    "file": "static/icons/chat/online.png",
+    "hash": "4c8565e0436c9fe69a65084b391cfb74"
+  },
+  {
+    "file": "static/icons/chat/passport.png",
+    "hash": "1b6f5972fee8b1a06f126961e3e8501b"
+  },
+  {
+    "file": "static/icons/chat/pin.png",
+    "hash": "f6af7d51242937bac44f5bf594a35622"
+  },
+  {
+    "file": "static/icons/chat/polygon.png",
+    "hash": "cc2b5fe24cb28ceb02a3f7f5c1e764ba"
+  },
+  {
+    "file": "static/icons/chat/qr-code.png",
+    "hash": "63c1a538cead9571e3faff94645d801c"
+  },
+  {
+    "file": "static/icons/chat/remove-member.png",
+    "hash": "2318b656d4f02f23d79f4d8663b928d5"
+  },
+  {
+    "file": "static/icons/chat/scan.png",
+    "hash": "690fcbf68c96f124e75b594599285064"
+  },
+  {
+    "file": "static/icons/chat/search.png",
+    "hash": "212aac7269750f515a3715faff389ca9"
+  },
+  {
+    "file": "static/icons/chat/send.png",
+    "hash": "952f48e7c5668ba31728085c8189b3b0"
+  },
+  {
+    "file": "static/icons/chat/send1.png",
+    "hash": "9a5532dc748e6178d299c47da9a8745b"
+  },
+  {
+    "file": "static/icons/chat/setting.png",
+    "hash": "99fab8ebe13a0df0dec98b5c34e9710c"
+  },
+  {
+    "file": "static/icons/chat/sms-star.png",
+    "hash": "0359bb7ef292b60200f6326b1ddc5e8c"
+  },
+  {
+    "file": "static/icons/chat/tail-left.png",
+    "hash": "02df7c6095827e89c64b5eefd980ab51"
+  },
+  {
+    "file": "static/icons/chat/tail-right.png",
+    "hash": "93d192cd16d6cc2091d4b5763d95965f"
+  },
+  {
+    "file": "static/icons/chat/trash-group.png",
+    "hash": "4beb4b63e7e8622a6c79d40463e4374e"
+  },
+  {
+    "file": "static/icons/chat/trash.png",
+    "hash": "4beb4b63e7e8622a6c79d40463e4374e"
+  },
+  {
+    "file": "static/icons/chat/unpin.png",
+    "hash": "acce55cc92d60b1b350ba88e75a73053"
+  },
+  {
+    "file": "static/icons/chat/upload-image.png",
+    "hash": "37bd3580498a0fe981a812500542e19b"
+  },
+  {
+    "file": "static/icons/chat/upload-video.png",
+    "hash": "2ee9286c0fbf0d273c0f2a643a0e7707"
+  },
+  {
+    "file": "static/icons/checked.png",
+    "hash": "ac6c3e718b32951fe89a0966dd265052"
+  },
+  {
+    "file": "static/icons/complete.png",
+    "hash": "09c8ba73b7c2c5d4d6c4e02c370e78f5"
+  },
+  {
+    "file": "static/icons/data.png",
+    "hash": "a97ed149994da025feb57f6fadc5ad44"
+  },
+  {
+    "file": "static/icons/empty.png",
+    "hash": "67331df2ed9d07dbf9718efc85d006d0"
+  },
+  {
+    "file": "static/icons/Frame.png",
+    "hash": "44e28aa888d93171958fce7d4238c909"
+  },
+  {
+    "file": "static/icons/home-active.png",
+    "hash": "f3bfdb4891b298c8d5b2a034734f61e1"
+  },
+  {
+    "file": "static/icons/home.png",
+    "hash": "7ac8d15cbf3aa28c1cc31c69b8013809"
+  },
+  {
+    "file": "static/icons/icon-live.png",
+    "hash": "d1da77ac789207c518c01f4e87c48a83"
+  },
+  {
+    "file": "static/icons/imchat-active.png",
+    "hash": "92648718b134e863b1abd76fa4d31b80"
+  },
+  {
+    "file": "static/icons/imchat.png",
+    "hash": "948805888d75173cc15a36ea7f56e056"
+  },
+  {
+    "file": "static/icons/likes/1.png",
+    "hash": "62a8a83c5d4de142504ed5d397c55adb"
+  },
+  {
+    "file": "static/icons/likes/10.png",
+    "hash": "c48fc37f4c1dac984ef8fe2713735c4c"
+  },
+  {
+    "file": "static/icons/likes/11.png",
+    "hash": "75738c803eeec198d49885806d927fbc"
+  },
+  {
+    "file": "static/icons/likes/12.png",
+    "hash": "c591919af8938efea8311d41f045b904"
+  },
+  {
+    "file": "static/icons/likes/13.png",
+    "hash": "5e8703ed7e3b49a8700b52abdbb524f5"
+  },
+  {
+    "file": "static/icons/likes/14.png",
+    "hash": "df8cb8e517e831941cfbd318480d21ce"
+  },
+  {
+    "file": "static/icons/likes/15.png",
+    "hash": "99039439364de725f5cdd812cb7738a9"
+  },
+  {
+    "file": "static/icons/likes/16.png",
+    "hash": "cdbd64e7a2cefbb0f0c85c8a68e1a665"
+  },
+  {
+    "file": "static/icons/likes/17.png",
+    "hash": "fb64fd222aa2af3863a314f6c00c6619"
+  },
+  {
+    "file": "static/icons/likes/18.png",
+    "hash": "73ffe69998548b2e84d867923c9f714c"
+  },
+  {
+    "file": "static/icons/likes/19.png",
+    "hash": "5ac19499394e30a4afc150619a7717ca"
+  },
+  {
+    "file": "static/icons/likes/2.png",
+    "hash": "a803a0460ee8e8d234d444fc73c54ec8"
+  },
+  {
+    "file": "static/icons/likes/20.png",
+    "hash": "ebde9f502d77855cd12c542b26e7d71b"
+  },
+  {
+    "file": "static/icons/likes/3.png",
+    "hash": "95ec9ad6467330b657e35884fc6f04cb"
+  },
+  {
+    "file": "static/icons/likes/4.png",
+    "hash": "12c029cb8256b2271ad1d9e8645fecdf"
+  },
+  {
+    "file": "static/icons/likes/5.png",
+    "hash": "c48fc37f4c1dac984ef8fe2713735c4c"
+  },
+  {
+    "file": "static/icons/likes/6.png",
+    "hash": "455368bfba2ff653fa3962d7c6d4f48d"
+  },
+  {
+    "file": "static/icons/likes/7.png",
+    "hash": "b750f4aef321a29bba2922456508fb6b"
+  },
+  {
+    "file": "static/icons/likes/8.png",
+    "hash": "3db7408e49b32dad02a73d636966c93f"
+  },
+  {
+    "file": "static/icons/likes/9.png",
+    "hash": "8b9fee8656d3832988bb35bd980bb501"
+  },
+  {
+    "file": "static/icons/live-active.png",
+    "hash": "26627c109985da766ec404d8085f0e50"
+  },
+  {
+    "file": "static/icons/live.png",
+    "hash": "5a83dc56efe93b24a11dd51787d4f8ce"
+  },
+  {
+    "file": "static/icons/mesage.png",
+    "hash": "7bc5823c411276f5dacc6304cc5043e4"
+  },
+  {
+    "file": "static/icons/message-active.png",
+    "hash": "2f6c959a6a3a6255596409100a568fae"
+  },
+  {
+    "file": "static/icons/message.png",
+    "hash": "b9c8e420571f6017e184797b363d4ace"
+  },
+  {
+    "file": "static/icons/mining-active.png",
+    "hash": "7219494fb8724ec765e7957bb7a26660"
+  },
+  {
+    "file": "static/icons/mining.png",
+    "hash": "1b1ff871b6752ed4bfa1c2acd2786211"
+  },
+  {
+    "file": "static/icons/mtu.png",
+    "hash": "e0b1bb9ecfae7e4969e9416eef5361b0"
+  },
+  {
+    "file": "static/icons/mvt/banner.png",
+    "hash": "d549ba146dba809945a13691d6f2da67"
+  },
+  {
+    "file": "static/icons/mvt/bg.png",
+    "hash": "9399b0ec284ac2258494cc1aa3c3e68c"
+  },
+  {
+    "file": "static/icons/mvt/mining-now.png",
+    "hash": "6f175e2702ac69b02b3c590585c712b2"
+  },
+  {
+    "file": "static/icons/mvt/mvt-coin.png",
+    "hash": "23a4c9fb71e18ed6b34c41cb4acd8ccd"
+  },
+  {
+    "file": "static/icons/mvt/mvt-rule.png",
+    "hash": "1888b761347e978487f5b7e8d462afd3"
+  },
+  {
+    "file": "static/icons/mvt/reward.png",
+    "hash": "539b5e6f90b1e68a8f0b75fffe543665"
+  },
+  {
+    "file": "static/icons/mvt/tether-coin.png",
+    "hash": "d708a29928a43c14608a02e89789b2b1"
+  },
+  {
+    "file": "static/icons/mvt/tether-withdraw.png",
+    "hash": "af2b825196138a9d9594e7486abaa6ff"
+  },
+  {
+    "file": "static/icons/mvt/tether.png",
+    "hash": "809fe693784f5842a6810ee5c2b65a78"
+  },
+  {
+    "file": "static/icons/my-active.png",
+    "hash": "e04500e872157959461359ce84849452"
+  },
+  {
+    "file": "static/icons/my.png",
+    "hash": "21a88e4043dbf78c919362c51d2568df"
+  },
+  {
+    "file": "static/icons/np-user.png",
+    "hash": "32d92664f8a58b77b669b01716bb49f7"
+  },
+  {
+    "file": "static/icons/order-active.png",
+    "hash": "7f7ebea6bad31cd3fa99be0f0eeed321"
+  },
+  {
+    "file": "static/icons/orders.png",
+    "hash": "960a29a71c35b58afff84964e4f69cab"
+  },
+  {
+    "file": "static/icons/pin.png",
+    "hash": "74f23dd32dc80fa16bc808810c96b2aa"
+  },
+  {
+    "file": "static/icons/profile/arrow-line-left.png",
+    "hash": "3974e27d2713852350375e162908fcc5"
+  },
+  {
+    "file": "static/icons/profile/banner.png",
+    "hash": "bc143ffc32210f47c1a073bd930ee3b0"
+  },
+  {
+    "file": "static/icons/profile/camera.png",
+    "hash": "41f3673a8ed8ca9f4ae54699f5def82e"
+  },
+  {
+    "file": "static/icons/profile/change-avatar.png",
+    "hash": "90b1113034a45a63bbb06bbfa7f46bbe"
+  },
+  {
+    "file": "static/icons/profile/check-lang.png",
+    "hash": "33ca34171cf61cc6331258f6199ea509"
+  },
+  {
+    "file": "static/icons/profile/check.png",
+    "hash": "f51a9f47712e80ccf7e995033f7ab13d"
+  },
+  {
+    "file": "static/icons/profile/checkbox-active.png",
+    "hash": "ac6c3e718b32951fe89a0966dd265052"
+  },
+  {
+    "file": "static/icons/profile/checkbox.png",
+    "hash": "ad1d2a2fc6def87b03f6631284a4b958"
+  },
+  {
+    "file": "static/icons/profile/close.png",
+    "hash": "9c286836ab81da9fe8190d8f2af5d31a"
+  },
+  {
+    "file": "static/icons/profile/copy.png",
+    "hash": "2ac42971352de43050df185836322e05"
+  },
+  {
+    "file": "static/icons/profile/customer-service.png",
+    "hash": "ab8417052f7cb7073c157549beb3dfd8"
+  },
+  {
+    "file": "static/icons/profile/edit.png",
+    "hash": "0309da32d82daa0adc2d3b8b7ed6d122"
+  },
+  {
+    "file": "static/icons/profile/eye-close.png",
+    "hash": "f733e70f36d59e49b7ed94ee89972042"
+  },
+  {
+    "file": "static/icons/profile/favorite-active.png",
+    "hash": "69b05cd5f9aa07bb00caa7e7ad0e099f"
+  },
+  {
+    "file": "static/icons/profile/favorite.png",
+    "hash": "79dd81de1c7a1a112311702a5a2e73db"
+  },
+  {
+    "file": "static/icons/profile/invite.png",
+    "hash": "e21d53f4a61ac3e1669b4dedac68f043"
+  },
+  {
+    "file": "static/icons/profile/language.png",
+    "hash": "fe49ee9a9c91c6b113da68d48c1bef87"
+  },
+  {
+    "file": "static/icons/profile/like-active.png",
+    "hash": "8dc915520ef641d0d381ed99df2efba6"
+  },
+  {
+    "file": "static/icons/profile/like.png",
+    "hash": "ab45fcd9cb2671a54e63a8bb2972dfee"
+  },
+  {
+    "file": "static/icons/profile/logout.png",
+    "hash": "899e62c62f8b06ae2cc3b1f383ffcba1"
+  },
+  {
+    "file": "static/icons/profile/man.png",
+    "hash": "234a3936869b538a6f85b90e4dce04a2"
+  },
+  {
+    "file": "static/icons/profile/management.png",
+    "hash": "52224cd32cf83ddd6a6267a736428c2b"
+  },
+  {
+    "file": "static/icons/profile/more-icon.png",
+    "hash": "0147b53d8844b324f6ef34b911659bf9"
+  },
+  {
+    "file": "static/icons/profile/more.png",
+    "hash": "ad70e700ff046b8581aa93cc84d3c6d2"
+  },
+  {
+    "file": "static/icons/profile/mvt-pool.png",
+    "hash": "663d43751fba6df711c7b0e579abf185"
+  },
+  {
+    "file": "static/icons/profile/nodata.png",
+    "hash": "2b91b8dd8af9a95fd86c67b594eebe81"
+  },
+  {
+    "file": "static/icons/profile/notice.png",
+    "hash": "4f9bf35cbe6b06585f83405d8a044945"
+  },
+  {
+    "file": "static/icons/profile/play.png",
+    "hash": "5c6ea9d6b0c0520fa6a90d1f2e8989f6"
+  },
+  {
+    "file": "static/icons/profile/private-active.png",
+    "hash": "d69bb2625554de477d2305c73b13c90c"
+  },
+  {
+    "file": "static/icons/profile/private.png",
+    "hash": "4a69f779302e45f9cc9cb25386e89283"
+  },
+  {
+    "file": "static/icons/profile/profile.png",
+    "hash": "d580d8fa2bd38f911fc2f0fcb5e2c883"
+  },
+  {
+    "file": "static/icons/profile/ranking.png",
+    "hash": "25fb0c7dbd19a2d2588de62b3453880c"
+  },
+  {
+    "file": "static/icons/profile/search-white.png",
+    "hash": "212aac7269750f515a3715faff389ca9"
+  },
+  {
+    "file": "static/icons/profile/search.png",
+    "hash": "ac219f921c878a2faea6adfb4730b98a"
+  },
+  {
+    "file": "static/icons/profile/team.png",
+    "hash": "574ceeb354108f780afdb2c352aeae0c"
+  },
+  {
+    "file": "static/icons/profile/wallet.png",
+    "hash": "634ab76efa33568fa49cb39b3f90f062"
+  },
+  {
+    "file": "static/icons/profile/woman.png",
+    "hash": "8cda8a1acb022013dbf3bfa7a7f4c465"
+  },
+  {
+    "file": "static/icons/profile/work-active.png",
+    "hash": "016329a1bcec0f4bdb656321c783bc88"
+  },
+  {
+    "file": "static/icons/profile/work.png",
+    "hash": "13ad069c26558bdf291ae3ed2d7e5883"
+  },
+  {
+    "file": "static/icons/team/cloud.png",
+    "hash": "ab6264a6fbf4981f30d882aa014625d4"
+  },
+  {
+    "file": "static/icons/team/light.png",
+    "hash": "606e53bc394d5870c0e2e4bb2e83b0e9"
+  },
+  {
+    "file": "static/icons/team/logo-shadow.png",
+    "hash": "b2ef16499535b45aa6a4b7e028458372"
+  },
+  {
+    "file": "static/icons/team/save.png",
+    "hash": "c3e71ea3891b7aa1979c5a82068dae10"
+  },
+  {
+    "file": "static/icons/team/scanner.png",
+    "hash": "4860d5795745368675a86f9cb93bb8fc"
+  },
+  {
+    "file": "static/icons/uncheck.png",
+    "hash": "ad1d2a2fc6def87b03f6631284a4b958"
+  },
+  {
+    "file": "static/icons/user/account.png",
+    "hash": "3a9268f9fade6ee1d4419654c3f19ba9"
+  },
+  {
+    "file": "static/icons/user/add.png",
+    "hash": "a9146a32ce026b97ccabff8ef0f65d57"
+  },
+  {
+    "file": "static/icons/user/agree.png",
+    "hash": "53865b5f9d4a8163d478b995e323927e"
+  },
+  {
+    "file": "static/icons/user/arrow-left-full.png",
+    "hash": "5b3fffc2b4822714e77bcee903646b78"
+  },
+  {
+    "file": "static/icons/user/arrow-right-full.png",
+    "hash": "d01c3d90d31c894f72676f2a4c9e2280"
+  },
+  {
+    "file": "static/icons/user/chat-group.png",
+    "hash": "c1eafa9eefb2bf3995b3071793df67a5"
+  },
+  {
+    "file": "static/icons/user/chat.png",
+    "hash": "3e4589b1085953f8c51a805660e5bca6"
+  },
+  {
+    "file": "static/icons/user/coin.png",
+    "hash": "af94fc5b8eb5773256a528ec1a35eca0"
+  },
+  {
+    "file": "static/icons/user/collect-active.png",
+    "hash": "64f17cfd0bf8cf4c19f62f73d584f6d3"
+  },
+  {
+    "file": "static/icons/user/collect.png",
+    "hash": "562ffb5f6706f22d0393fb81e93e37c7"
+  },
+  {
+    "file": "static/icons/user/comment.png",
+    "hash": "f343e45895ea885fdcb5f59474b2d214"
+  },
+  {
+    "file": "static/icons/user/custom.png",
+    "hash": "202ff21e2fe68998b92d45ca41aebb22"
+  },
+  {
+    "file": "static/icons/user/Ellipse.png",
+    "hash": "e497a29b6333546cf8d517e328149755"
+  },
+  {
+    "file": "static/icons/user/en-flag.png",
+    "hash": "3d243256473ccf7becde2d3e85f06ab1"
+  },
+  {
+    "file": "static/icons/user/female.png",
+    "hash": "7198a8d6962f3301a4aec349a96252bd"
+  },
+  {
+    "file": "static/icons/user/follow-active.png",
+    "hash": "50964a568db2623cb1542c4c770401e7"
+  },
+  {
+    "file": "static/icons/user/follow-back.png",
+    "hash": "d805910074767ac0f823e55ad848044c"
+  },
+  {
+    "file": "static/icons/user/follow.png",
+    "hash": "29ce4c3b69a87b7be4d3f9d3a4abbb6b"
+  },
+  {
+    "file": "static/icons/user/fr-flag.png",
+    "hash": "06fe22c60ec0015cbf8ee4a377c9bf9c"
+  },
+  {
+    "file": "static/icons/user/gift.png",
+    "hash": "70e451d97e6be3d10af284155fd7d3a4"
+  },
+  {
+    "file": "static/icons/user/icon-acceptor.png",
+    "hash": "8132dc256e7ab64c2113bdf0f6a0f8d8"
+  },
+  {
+    "file": "static/icons/user/icon-account.png",
+    "hash": "bc7ba59890506125a486f757d27211cf"
+  },
+  {
+    "file": "static/icons/user/icon-add-black.png",
+    "hash": "398c371dedfa51da814f858522abb624"
+  },
+  {
+    "file": "static/icons/user/icon-add-friend.png",
+    "hash": "dc760e30bf3b88def9262d2404a7b136"
+  },
+  {
+    "file": "static/icons/user/icon-add-group.png",
+    "hash": "cf7566864e0c4fef51387e9ecd49f8e3"
+  },
+  {
+    "file": "static/icons/user/icon-add-white.png",
+    "hash": "a9146a32ce026b97ccabff8ef0f65d57"
+  },
+  {
+    "file": "static/icons/user/icon-add.png",
+    "hash": "646386d2da6efe185561496128e13e11"
+  },
+  {
+    "file": "static/icons/user/icon-address.png",
+    "hash": "575b18870ed6038ce4584390476fb695"
+  },
+  {
+    "file": "static/icons/user/icon-album.png",
+    "hash": "a26bf9f6a6c35560348a5d495883464d"
+  },
+  {
+    "file": "static/icons/user/icon-apply.png",
+    "hash": "f665d6ab5560d459cfb03060951641fb"
+  },
+  {
+    "file": "static/icons/user/icon-arrow_left.png",
+    "hash": "0d1b190e87639b7ed00a4d51950b29fa"
+  },
+  {
+    "file": "static/icons/user/icon-arrow-left.png",
+    "hash": "eb2105c85103167bb35c2d5e622db1f8"
+  },
+  {
+    "file": "static/icons/user/icon-arrow-more.png",
+    "hash": "e3bb0ba9167406ad64cd67a2cc5bbba8"
+  },
+  {
+    "file": "static/icons/user/icon-arrow-right.png",
+    "hash": "ac0d6c9e9177f259448d818f1bcf7c9d"
+  },
+  {
+    "file": "static/icons/user/icon-arrow.png",
+    "hash": "5af32463df25bab4a35c2a59355123bb"
+  },
+  {
+    "file": "static/icons/user/icon-books.png",
+    "hash": "7ae2ad9a843046591a66c40c75912a22"
+  },
+  {
+    "file": "static/icons/user/icon-box-empty.png",
+    "hash": "2bcd4851167eb48dfd5e17327f99ac48"
+  },
+  {
+    "file": "static/icons/user/icon-box.png",
+    "hash": "033504de122edc673dc351bcdfcbe134"
+  },
+  {
+    "file": "static/icons/user/icon-business.png",
+    "hash": "3818678dd56f608ba5b356faa86cb53b"
+  },
+  {
+    "file": "static/icons/user/icon-cart.png",
+    "hash": "81ead3fe37a2c083706d4dbd9ade7bf2"
+  },
+  {
+    "file": "static/icons/user/icon-close-black.png",
+    "hash": "093b74aec763e34fe326f21c208dfc3a"
+  },
+  {
+    "file": "static/icons/user/icon-close.png",
+    "hash": "7ceeb0a3f6099683d6be6bad16609f4e"
+  },
+  {
+    "file": "static/icons/user/icon-comment.png",
+    "hash": "a8039b49e7a278770bdf34843ba46f6a"
+  },
+  {
+    "file": "static/icons/user/icon-copy.png",
+    "hash": "b3c0ba881ceb7ae601808ff9399cd0a9"
+  },
+  {
+    "file": "static/icons/user/icon-custom-bg.png",
+    "hash": "4cf9ec745ca45dc67df49f7a00d51409"
+  },
+  {
+    "file": "static/icons/user/icon-custom.png",
+    "hash": "e3ecfcab6ec2491a7990ba53effaad86"
+  },
+  {
+    "file": "static/icons/user/icon-del.png",
+    "hash": "a867e0fcc596b70b761267cbd802ee23"
+  },
+  {
+    "file": "static/icons/user/icon-delete.png",
+    "hash": "d7e483f7241b35c882ea8fd43edc96f6"
+  },
+  {
+    "file": "static/icons/user/icon-down-arrow.png",
+    "hash": "9d66fb478e1e032279111263a4486fb6"
+  },
+  {
+    "file": "static/icons/user/icon-download.png",
+    "hash": "5a63cec4828a5e1a9f01e46cca248005"
+  },
+  {
+    "file": "static/icons/user/icon-email.png",
+    "hash": "29b82005e9ae9bc3b5f64325ac10e553"
+  },
+  {
+    "file": "static/icons/user/icon-empty.png",
+    "hash": "eef2c339d884e19bbe0463c28bcd1c24"
+  },
+  {
+    "file": "static/icons/user/icon-eye-close.png",
+    "hash": "5d7f48e7725436aebadda986aa82024e"
+  },
+  {
+    "file": "static/icons/user/icon-eye.png",
+    "hash": "e33e667a998a4473bbcf4152e6d414ae"
+  },
+  {
+    "file": "static/icons/user/icon-followed.png",
+    "hash": "0f87ebd2af87f61aeda1c3342f012344"
+  },
+  {
+    "file": "static/icons/user/icon-full-switch.png",
+    "hash": "33fde88b750945f3d3db59b49cdccd47"
+  },
+  {
+    "file": "static/icons/user/icon-gift-open-1.png",
+    "hash": "d85985b8730623a5070b26e655f5685f"
+  },
+  {
+    "file": "static/icons/user/icon-gift-open.png",
+    "hash": "98f02d384ef51e2e500914ffe1065ca2"
+  },
+  {
+    "file": "static/icons/user/icon-gift.png",
+    "hash": "34b475d32a872723ca0b0aab5e058130"
+  },
+  {
+    "file": "static/icons/user/icon-goods.png",
+    "hash": "d7328c4111c97e42f1df505d2565bc2a"
+  },
+  {
+    "file": "static/icons/user/icon-group.png",
+    "hash": "a2d6b95480c95a9d577f4022386e15ba"
+  },
+  {
+    "file": "static/icons/user/icon-help.png",
+    "hash": "51a2533cacdccc5a8e1a008ae5df1f45"
+  },
+  {
+    "file": "static/icons/user/icon-hidden.png",
+    "hash": "d78d35c341cb277b03ec6bb483af877d"
+  },
+  {
+    "file": "static/icons/user/icon-home.png",
+    "hash": "4b753bc44cb7200fb8f0dc70f9ea01a6"
+  },
+  {
+    "file": "static/icons/user/icon-hot-goods.png",
+    "hash": "08b3acc10be0998fc5bca107a8773638"
+  },
+  {
+    "file": "static/icons/user/icon-hot-shop.png",
+    "hash": "30a2c576f26b64565b3b0925b3c69e6d"
+  },
+  {
+    "file": "static/icons/user/icon-income.png",
+    "hash": "76283e3598df90ecd23c28725743fa73"
+  },
+  {
+    "file": "static/icons/user/icon-invite.png",
+    "hash": "bf0ab82706a1fd73edffd6ff52522107"
+  },
+  {
+    "file": "static/icons/user/icon-lang-black.png",
+    "hash": "dc103100af336ad13c4a30e1537a2a96"
+  },
+  {
+    "file": "static/icons/user/icon-lang.png",
+    "hash": "ed2eb4d174e2be8d397f85e60c33bb06"
+  },
+  {
+    "file": "static/icons/user/icon-like-gray.png",
+    "hash": "de900c1fc7bbd421876ee61fc9204ffe"
+  },
+  {
+    "file": "static/icons/user/icon-like-red.png",
+    "hash": "fec95906dcb0d3afadc44d3f7d2b227b"
+  },
+  {
+    "file": "static/icons/user/icon-like-w1.png",
+    "hash": "bd79da49ee3387fc4da287cc30553fb7"
+  },
+  {
+    "file": "static/icons/user/icon-like.png",
+    "hash": "294f8adb46c4afe1f42350c680c78758"
+  },
+  {
+    "file": "static/icons/user/icon-list.png",
+    "hash": "d2cc646791c38f46e250b4fef80743d8"
+  },
+  {
+    "file": "static/icons/user/icon-live-player.png",
+    "hash": "35c9cdccfbae16686081c64d07854581"
+  },
+  {
+    "file": "static/icons/user/icon-live-rank.png",
+    "hash": "dcd9f49d3bc3eef689eaa982d9141af9"
+  },
+  {
+    "file": "static/icons/user/icon-lock.png",
+    "hash": "ed84640b5f57933dca768b71c915d169"
+  },
+  {
+    "file": "static/icons/user/icon-logout-white.png",
+    "hash": "a5857b04d0e9ca21519d6244ef96385d"
+  },
+  {
+    "file": "static/icons/user/icon-logout.png",
+    "hash": "7b7fb1e68ba2d0e2875e3ed5e7cc34da"
+  },
+  {
+    "file": "static/icons/user/icon-machine.png",
+    "hash": "1d7a310ff7d40276bfead2c776747a79"
+  },
+  {
+    "file": "static/icons/user/icon-manage.png",
+    "hash": "945f5121ac74ba511f30deac94b27eaa"
+  },
+  {
+    "file": "static/icons/user/icon-merchant-active.png",
+    "hash": "7f90248f87e6d3a4a14d9d91a98e8bcb"
+  },
+  {
+    "file": "static/icons/user/icon-merchant.png",
+    "hash": "66c3c9b7ce679d48150db869230956cb"
+  },
+  {
+    "file": "static/icons/user/icon-message-1.png",
+    "hash": "07bb2dd8b20d73a9cd67bf31c61dde76"
+  },
+  {
+    "file": "static/icons/user/icon-message-2.png",
+    "hash": "4c6f1abd349e6d5cbb94e6d5510ed202"
+  },
+  {
+    "file": "static/icons/user/icon-message-3.png",
+    "hash": "a665e81188cc5e514735f1e88605c465"
+  },
+  {
+    "file": "static/icons/user/icon-message-4.png",
+    "hash": "a834c192cc04fc9677823628ccc20b0b"
+  },
+  {
+    "file": "static/icons/user/icon-message-5.png",
+    "hash": "b7f621be7779341375051f1957ce626b"
+  },
+  {
+    "file": "static/icons/user/icon-mobile.png",
+    "hash": "6e98da405ec553dc20cacfe1ba07dd08"
+  },
+  {
+    "file": "static/icons/user/icon-music.png",
+    "hash": "a95d063731a67d6d4e00501fff3b4553"
+  },
+  {
+    "file": "static/icons/user/icon-order.png",
+    "hash": "2eae913acdd21c6608e522f7b98222bc"
+  },
+  {
+    "file": "static/icons/user/icon-password.png",
+    "hash": "b4ab4d3914c30bb48968b309e056aae5"
+  },
+  {
+    "file": "static/icons/user/icon-payment.png",
+    "hash": "94f586f70459e82ac0008c24b9a786ed"
+  },
+  {
+    "file": "static/icons/user/icon-phone-no.png",
+    "hash": "ad02d7cb258e83d11dbf7a7c60c542c9"
+  },
+  {
+    "file": "static/icons/user/icon-phone-white.png",
+    "hash": "0bfecfa18374ab78dfbc86d6512baba4"
+  },
+  {
+    "file": "static/icons/user/icon-phone-yes.png",
+    "hash": "4668e8fa1cd849a306caa158f8b5fd0f"
+  },
+  {
+    "file": "static/icons/user/icon-phone.png",
+    "hash": "70914f19eaa3b47ffc5d417da0f72235"
+  },
+  {
+    "file": "static/icons/user/icon-photo.png",
+    "hash": "6fe01c49e23909f217ad4c8988145677"
+  },
+  {
+    "file": "static/icons/user/icon-play.png",
+    "hash": "abe50a165f2707b7ecb7cdbc3e146b20"
+  },
+  {
+    "file": "static/icons/user/icon-player.png",
+    "hash": "38f6dc5fbbb2e5e07c22360ad7de57ef"
+  },
+  {
+    "file": "static/icons/user/icon-power-1.png",
+    "hash": "4b7ccc91d80818d431536b925ff8358e"
+  },
+  {
+    "file": "static/icons/user/icon-publish.png",
+    "hash": "169058c4c83915274aac8d077bd233f2"
+  },
+  {
+    "file": "static/icons/user/icon-qrcode-gray.png",
+    "hash": "d501d13a7d1bce75bdb34a0c246696d3"
+  },
+  {
+    "file": "static/icons/user/icon-qrcode.png",
+    "hash": "5fa3ad2d59d949f6283884880ed72f14"
+  },
+  {
+    "file": "static/icons/user/icon-quota.png",
+    "hash": "7397c8874fdd2d9db660a44246875bfb"
+  },
+  {
+    "file": "static/icons/user/icon-reback.png",
+    "hash": "347b534b6d7bef951be5ae6a03cca73f"
+  },
+  {
+    "file": "static/icons/user/icon-recharge.png",
+    "hash": "5a925afa586f0ddb0dd84e70440a2b5f"
+  },
+  {
+    "file": "static/icons/user/icon-return.png",
+    "hash": "9eac45ce98360158e533e67a17506d09"
+  },
+  {
+    "file": "static/icons/user/icon-scan.png",
+    "hash": "cacf18127c291aa742d9e3f436aa834a"
+  },
+  {
+    "file": "static/icons/user/icon-search.png",
+    "hash": "eaee7dc541c4b124cc7f0eb8d0579423"
+  },
+  {
+    "file": "static/icons/user/icon-select-music.png",
+    "hash": "4a1961a64eb79e0198e79bf0b094fe1b"
+  },
+  {
+    "file": "static/icons/user/icon-selected.png",
+    "hash": "a1f1995f5a5a60f232c024343f226a31"
+  },
+  {
+    "file": "static/icons/user/icon-set.png",
+    "hash": "a91aabee59a90d43bf120cd32638cae7"
+  },
+  {
+    "file": "static/icons/user/icon-setting-video.png",
+    "hash": "66730c0ce6b9ef0f0fd9c7371d02a180"
+  },
+  {
+    "file": "static/icons/user/icon-setting.png",
+    "hash": "f445d7a966ecec61ec2b2c767f60567a"
+  },
+  {
+    "file": "static/icons/user/icon-share-video.png",
+    "hash": "87fedff06f8a077c416dd99b30bfa1d2"
+  },
+  {
+    "file": "static/icons/user/icon-share.png",
+    "hash": "119847f4f3d57aa60cd2a4b89c7b66f9"
+  },
+  {
+    "file": "static/icons/user/icon-shop-setting.png",
+    "hash": "e47c4a0077c73e0600b818fcd90d01fb"
+  },
+  {
+    "file": "static/icons/user/icon-shop.png",
+    "hash": "6467b0ef9ed1b58f78ba8246de798956"
+  },
+  {
+    "file": "static/icons/user/icon-shops.png",
+    "hash": "6b55bd42b79764c9a553209cc11b40d0"
+  },
+  {
+    "file": "static/icons/user/icon-show.png",
+    "hash": "63c1602d29fcf870d47a5ee3c09e100b"
+  },
+  {
+    "file": "static/icons/user/icon-star.png",
+    "hash": "f070505407784b23fc74fa6ca7449833"
+  },
+  {
+    "file": "static/icons/user/icon-switch-media.png",
+    "hash": "fe3a4dd862b7f9c38bc4fd85ecded804"
+  },
+  {
+    "file": "static/icons/user/icon-task-day.png",
+    "hash": "4f99b26fa7563abc38814f1f2e9561cc"
+  },
+  {
+    "file": "static/icons/user/icon-task.png",
+    "hash": "8c56fbcdf1373282344013ff018c699a"
+  },
+  {
+    "file": "static/icons/user/icon-tasks.png",
+    "hash": "1cc1ddfafe19bb25a4044dc06ddc3b8c"
+  },
+  {
+    "file": "static/icons/user/icon-trade-log.png",
+    "hash": "f3fd4d1788608926a4ad7dac6260d3a9"
+  },
+  {
+    "file": "static/icons/user/icon-trade-order.png",
+    "hash": "54c7422d5fb5db6f1e3f0f4930a030e8"
+  },
+  {
+    "file": "static/icons/user/icon-up-arrow.png",
+    "hash": "20f5cf37821d08ffe643fe0cf7cf21bb"
+  },
+  {
+    "file": "static/icons/user/icon-upgrade.png",
+    "hash": "5aa90f5df01324167cd44365a6843da6"
+  },
+  {
+    "file": "static/icons/user/icon-user-add.png",
+    "hash": "b0aee1528c1fd65da34f5b858eefabd6"
+  },
+  {
+    "file": "static/icons/user/icon-user-follow.png",
+    "hash": "4a80b06b1b023efd0d1096843fa8ac51"
+  },
+  {
+    "file": "static/icons/user/icon-user-no.png",
+    "hash": "9780609f7c56646a88256d9aad66779a"
+  },
+  {
+    "file": "static/icons/user/icon-user-open.png",
+    "hash": "f59495a314ac52e920bc0b37c74c9625"
+  },
+  {
+    "file": "static/icons/user/icon-user.png",
+    "hash": "37b259af5900955293cc4e964ef8ddb7"
+  },
+  {
+    "file": "static/icons/user/icon-video-yes.png",
+    "hash": "a8cac29d4837186f288086c4232cc971"
+  },
+  {
+    "file": "static/icons/user/icon-video.png",
+    "hash": "38ba95f5336caa1d10349ea87770afc3"
+  },
+  {
+    "file": "static/icons/user/icon-voice-red.gif",
+    "hash": "a5774c1260fd6071fc043fc94caad0ab"
+  },
+  {
+    "file": "static/icons/user/icon-voice.gif",
+    "hash": "0105161943818e6778a1d3625f94c770"
+  },
+  {
+    "file": "static/icons/user/is_default.png",
+    "hash": "d187ea567796747142426784753b115d"
+  },
+  {
+    "file": "static/icons/user/jap-flag.png",
+    "hash": "5ac5e61b29a6a3cbfa2bedd75edd6cd7"
+  },
+  {
+    "file": "static/icons/user/lang.png",
+    "hash": "660ee90f07f26f1ccc151321ef701af1"
+  },
+  {
+    "file": "static/icons/user/list.png",
+    "hash": "d637a1c1eb7407a4a44c24a4ea906dc2"
+  },
+  {
+    "file": "static/icons/user/lock-open.png",
+    "hash": "d2b82d44d39d886b73c8b6aa39a4f5d6"
+  },
+  {
+    "file": "static/icons/user/machine.png",
+    "hash": "813583d5df4ad0c49f04ca2596acd34b"
+  },
+  {
+    "file": "static/icons/user/male.png",
+    "hash": "d3f313ea986663f26c3792a6719188eb"
+  },
+  {
+    "file": "static/icons/user/map.png",
+    "hash": "f63a076e17fcc0849e42bb79ed83ff78"
+  },
+  {
+    "file": "static/icons/user/menu.png",
+    "hash": "2143b55914303c4b16965ecf8823ca83"
+  },
+  {
+    "file": "static/icons/user/merchant-apply.png",
+    "hash": "73eb10bb4f28df944a4dc22c40f51de7"
+  },
+  {
+    "file": "static/icons/user/merchant.png",
+    "hash": "78237955428426d334a732423027c9ef"
+  },
+  {
+    "file": "static/icons/user/no-data.png",
+    "hash": "c29e5c8f75bdb583d10d5ae184c30e09"
+  },
+  {
+    "file": "static/icons/user/notice.png",
+    "hash": "3ddd419515cdf0eef4ffbbde2a924e8f"
+  },
+  {
+    "file": "static/icons/user/phone.png",
+    "hash": "1df1de67d593c43824400007eae05da2"
+  },
+  {
+    "file": "static/icons/user/point.png",
+    "hash": "f5062153b3c54d93ed390c7a81c6e399"
+  },
+  {
+    "file": "static/icons/user/private-chat.png",
+    "hash": "1ff10acae845e140a19f0de4acb93cf1"
+  },
+  {
+    "file": "static/icons/user/profile.png",
+    "hash": "213b9b756bb5ff50084984f688c53f75"
+  },
+  {
+    "file": "static/icons/user/profile1.png",
+    "hash": "36e043409d9f140f507f403509fa8832"
+  },
+  {
+    "file": "static/icons/user/qrcode-1.png",
+    "hash": "6cb20e588a8ed4a96e26f9f24aae380c"
+  },
+  {
+    "file": "static/icons/user/qrcode-bg.png",
+    "hash": "e4b161f5dec24747f93bb6fdda13abf4"
+  },
+  {
+    "file": "static/icons/user/rank.png",
+    "hash": "46c6b9d97b6a79aee917dde4e65ef3f3"
+  },
+  {
+    "file": "static/icons/user/resource.png",
+    "hash": "93c698bfa6f8e51c8af8b33f6baff37a"
+  },
+  {
+    "file": "static/icons/user/score.png",
+    "hash": "6d68834fa80b476009c174bd83252dac"
+  },
+  {
+    "file": "static/icons/user/search.png",
+    "hash": "ece847519ed71913a5f63bc8aeae1e5a"
+  },
+  {
+    "file": "static/icons/user/sex-2.png",
+    "hash": "ade61382e2ecd4837963b03a4415e9e8"
+  },
+  {
+    "file": "static/icons/user/share.png",
+    "hash": "7061ea9e6caeaaa6075b79251f2d5680"
+  },
+  {
+    "file": "static/icons/user/shop.png",
+    "hash": "6947fa1ef72ae34b501a7b71c53d8ae5"
+  },
+  {
+    "file": "static/icons/user/sk-flag.png",
+    "hash": "5e6c7e3bad60859538e6aec7d4392a1e"
+  },
+  {
+    "file": "static/icons/user/sp-flag.png",
+    "hash": "de50a969192fded953b04a658a2e4cd9"
+  },
+  {
+    "file": "static/icons/user/star.png",
+    "hash": "5635acad92f9b3e3987f252dde7983f3"
+  },
+  {
+    "file": "static/icons/user/support.png",
+    "hash": "003973b39524d2b92378bd89d0929876"
+  },
+  {
+    "file": "static/icons/user/task.png",
+    "hash": "2d693bb34463c691dac047cc9061604a"
+  },
+  {
+    "file": "static/icons/user/team.png",
+    "hash": "6ce6db8628ef782507626864ee6a43ab"
+  },
+  {
+    "file": "static/icons/user/trade.png",
+    "hash": "051621ccab7e85ac593d79c9db7f988a"
+  },
+  {
+    "file": "static/icons/user/upgrade.png",
+    "hash": "9658845982bd79a601f6dade9ac9bc75"
+  },
+  {
+    "file": "static/icons/user/usdt.png",
+    "hash": "f8b75ca63a7cfd6e022b234c1e240dee"
+  },
+  {
+    "file": "static/icons/user/user-setting.png",
+    "hash": "b5b60f5d651bf4f10d081572ee11f7af"
+  },
+  {
+    "file": "static/icons/user/voice.png",
+    "hash": "b8d7d828777fb8609fbd3f6f57fd5bbb"
+  },
+  {
+    "file": "static/icons/user/wait_score.png",
+    "hash": "876252a87df34ef0fde9e186929d9811"
+  },
+  {
+    "file": "static/icons/user/wallet.png",
+    "hash": "132b82c6290f6afd87281b42845fa36a"
+  },
+  {
+    "file": "static/icons/user/zh-tw-flag.png",
+    "hash": "75792ce36bfb3bc54d940d0105438712"
+  },
+  {
+    "file": "static/icons/video-task.png",
+    "hash": "f744553a53a0b99a7834635fb63cb14f"
+  },
+  {
+    "file": "static/icons/video/change-camera.png",
+    "hash": "8ece0130380319bd258c5eae704bb941"
+  },
+  {
+    "file": "static/icons/video/chat.png",
+    "hash": "0cd045304917478618735ae5a98bb675"
+  },
+  {
+    "file": "static/icons/video/close.png",
+    "hash": "e22364060ed665bb28cbf893cae59487"
+  },
+  {
+    "file": "static/icons/video/hashtag.png",
+    "hash": "39f15eb8d358539f5f910be88d6e55ef"
+  },
+  {
+    "file": "static/icons/video/image-inactive.png",
+    "hash": "200246a191d1d75f5267f7b917646065"
+  },
+  {
+    "file": "static/icons/video/image.png",
+    "hash": "db280c7e6ddfe0616dabfb9525eca55c"
+  },
+  {
+    "file": "static/icons/video/lock.png",
+    "hash": "d55ab62975a5077cb31f1b17cade45b2"
+  },
+  {
+    "file": "static/icons/video/music-note.png",
+    "hash": "9d5fdfedc8a3c9fa720cf0c839aec967"
+  },
+  {
+    "file": "static/icons/video/music.png",
+    "hash": "71905b04cf346c0794905b9a3e5d831d"
+  },
+  {
+    "file": "static/icons/video/post.png",
+    "hash": "e8fe259b90a1c9b30ce4dc8702823f3e"
+  },
+  {
+    "file": "static/icons/video/select-photo.png",
+    "hash": "71f975011d380ad821f4cef4d43a9325"
+  },
+  {
+    "file": "static/icons/video/select-video.png",
+    "hash": "c61881b46cca549e87d7a1abb2109eb5"
+  },
+  {
+    "file": "static/icons/video/upload.png",
+    "hash": "9240cbcb1f222bd43d0759aac179c76d"
+  },
+  {
+    "file": "static/icons/video/video-inactive.png",
+    "hash": "4dd3d20c8120f373935a91938f706580"
+  },
+  {
+    "file": "static/icons/video/video.png",
+    "hash": "9aef31ca2288aeff242bcd165768bbe7"
+  },
+  {
+    "file": "static/icons/wallet/eye-close.png",
+    "hash": "4a9e8821bd2900bd92a3da572959c0d4"
+  },
+  {
+    "file": "static/icons/wallet/eye.png",
+    "hash": "487d5738513a867c202d51bfd45c2a32"
+  },
+  {
+    "file": "static/icons/wallet/filter.png",
+    "hash": "3d606ba36f2639ecaf6fe3143aa6a75a"
+  },
+  {
+    "file": "static/icons/wallet/mvt.png",
+    "hash": "e1c64faff97e0d8d7c4fdaa29aef3018"
+  },
+  {
+    "file": "static/icons/wallet/recharge.png",
+    "hash": "3ade23599e7f0c536d792c71308a111a"
+  },
+  {
+    "file": "static/icons/wallet/transfer.png",
+    "hash": "e2a3e7624f2366aa4f37344241dfbbe8"
+  },
+  {
+    "file": "static/icons/wallet/usdt-mvt.png",
+    "hash": "55aabdaf2a9218488701f9c601ae3d04"
+  },
+  {
+    "file": "static/icons/wallet/usdt.png",
+    "hash": "d960badf2e7c66b4beecf65892b87358"
+  },
+  {
+    "file": "static/images/1024x1024.png",
+    "hash": "d12afeed4f258cdac8196f9719db0b81"
+  },
+  {
+    "file": "static/images/avatar/1.jpeg",
+    "hash": "043e2fb9ebf6aca7a3e6c25db2f8edbd"
+  },
+  {
+    "file": "static/images/avatar/2.jpeg",
+    "hash": "6f7323c004e39b0cac368228aa1c88d3"
+  },
+  {
+    "file": "static/images/avatar/3.jpeg",
+    "hash": "a40326ae8ce707f6c4ea8c46b6ba5571"
+  },
+  {
+    "file": "static/images/avatar/4.jpeg",
+    "hash": "d0ba0c5e379375f4a4f8474df791b304"
+  },
+  {
+    "file": "static/images/avatar/5.jpeg",
+    "hash": "7e21d5cd3772ad214ba357efa54f064b"
+  },
+  {
+    "file": "static/images/icon-login-bg.png",
+    "hash": "95e046992d027ed6bb86dc4ae2a8ea84"
+  },
+  {
+    "file": "static/images/icon-login-bg1.png",
+    "hash": "85779a48b012c0a9b4e4cd071e3f765c"
+  },
+  {
+    "file": "static/images/icon-logo.png",
+    "hash": "7c416a522be62b86332e5967203a2980"
+  },
+  {
+    "file": "static/images/live-bg.png",
+    "hash": "296b055a637c533eaff2dcd5f45f6cd0"
+  },
+  {
+    "file": "static/images/login-bg.png",
+    "hash": "073b1ca6d697f251fd6dfb7dd1639076"
+  },
+  {
+    "file": "static/images/logo.png",
+    "hash": "2de8b39004ceaca02f8cc4d8edc2b857"
+  },
+  {
+    "file": "static/images/logo1.png",
+    "hash": "36af969d5149a96aaea286ce899b7052"
+  },
+  {
+    "file": "static/images/pay/icon_alipay.png",
+    "hash": "7649572797b6f73ba4df5a134861ebce"
+  },
+  {
+    "file": "static/images/pay/icon_balance.png",
+    "hash": "8c6f9e96c45c7a73f935848c7144a63e"
+  },
+  {
+    "file": "static/images/pay/icon_bank.png",
+    "hash": "75ec02b7cfc974abf71c729e261cde9c"
+  },
+  {
+    "file": "static/images/pay/icon_usdt.png",
+    "hash": "7aeb88de6a94d46b82f8261ccebef27d"
+  },
+  {
+    "file": "static/images/pay/icon_wxpay.png",
+    "hash": "e47ffde650096ea505f69cbc71f31d96"
+  },
+  {
+    "file": "static/images/video-bg.png",
+    "hash": "46f617f13491b240d38e7a13e4906811"
+  },
+  {
+    "file": "static/images/video.png",
+    "hash": "1b6f55b4269cfeaa270f6cadad63ae6e"
+  },
+  {
+    "file": "static/images/video1.png",
+    "hash": "1ff3bdf13e143a0e1cc9f67e723dfc7f"
+  },
+  {
+    "file": "static/index.css",
+    "hash": "73ae6c583d02d78f81e3f18860a2899a"
+  },
+  {
+    "file": "static/js/chunk-vendors.561a03bc.js",
+    "hash": "3a6be76a1d0c001378a15e2b70868fe7"
+  },
+  {
+    "file": "static/js/echarts.min.js",
+    "hash": "f0a6eb86484935fa99f43cb6867ba30e"
+  },
+  {
+    "file": "static/js/index.a290c007.js",
+    "hash": "a1295d7d4377af48df7acba8a31607b2"
+  },
+  {
+    "file": "static/js/pages-account-index.071b94e8.js",
+    "hash": "33d3e2fbaf412dc777f13f07a060fe16"
+  },
+  {
+    "file": "static/js/pages-article-detail.e478675d.js",
+    "hash": "47f0213a548315c9c3f2c45818d8813d"
+  },
+  {
+    "file": "static/js/pages-article-detail~pages-article-index~pages-chat-friend~pages-chat-group~pages-chat-index~pages-f~3675e065.9c855854.js",
+    "hash": "33e7a9a16304a794c98690c948fede8d"
+  },
+  {
+    "file": "static/js/pages-article-detail~pages-article-index~pages-chat-friend~pages-chat-group~pages-chat-index~pages-i~cdc14d0d.3c7082f7.js",
+    "hash": "803d7e2ee0ca2ce88fb91da6b94bc74f"
+  },
+  {
+    "file": "static/js/pages-article-detail~pages-message-history.8ee9122f.js",
+    "hash": "fffc2c7971d149b6438b71a83c6b1f53"
+  },
+  {
+    "file": "static/js/pages-article-index.5829ffcd.js",
+    "hash": "e8114bcd70fb91cc209a6ebac9827c4b"
+  },
+  {
+    "file": "static/js/pages-chat-chat.8054c350.js",
+    "hash": "c4ce7ce4e089553d92db7f49ab945171"
+  },
+  {
+    "file": "static/js/pages-chat-friend.14a78364.js",
+    "hash": "412d3afd8fa5e0c3ed6eedc1852b94e8"
+  },
+  {
+    "file": "static/js/pages-chat-friend~pages-chat-group~pages-chat-index~pages-friend-index~pages-friend-list~pages-index~04262341.40bc4c32.js",
+    "hash": "ba13ff4fc7559929594a7dd8b2427424"
+  },
+  {
+    "file": "static/js/pages-chat-group.ede47433.js",
+    "hash": "08d1ade886cec2c3655a9fe174503200"
+  },
+  {
+    "file": "static/js/pages-chat-group~pages-chat-index~pages-index-index~pages-live-index~pages-login-forget~pages-login-~4ed6c7f5.65180d2a.js",
+    "hash": "cebf23020ba7c88e5774256d4e563b2a"
+  },
+  {
+    "file": "static/js/pages-chat-index.14fefa79.js",
+    "hash": "7380090795645995d50aa0fdf50b44da"
+  },
+  {
+    "file": "static/js/pages-friend-index.0c80e4ca.js",
+    "hash": "cbcf9c96687b77fb1261bfd1a4a54b6e"
+  },
+  {
+    "file": "static/js/pages-friend-list.139a67d7.js",
+    "hash": "23c414d33a89a56398690957792cb5bd"
+  },
+  {
+    "file": "static/js/pages-index-index.0d14e0f9.js",
+    "hash": "28d3378bda1c7a9a456c925bf4e77c43"
+  },
+  {
+    "file": "static/js/pages-live-end.a76bda6b.js",
+    "hash": "d5bf21b888770d504fe85e36c24fca91"
+  },
+  {
+    "file": "static/js/pages-live-index.2677c901.js",
+    "hash": "b5da7ab2cc222c1855e21e2675f871e7"
+  },
+  {
+    "file": "static/js/pages-login-forget.f886e014.js",
+    "hash": "29460af0121fc90158bb71c5531fbb6b"
+  },
+  {
+    "file": "static/js/pages-login-login.c3d7ea6b.js",
+    "hash": "4ceca335df44d91ebb169740a6d8a1b6"
+  },
+  {
+    "file": "static/js/pages-login-login~pages-machine-buy~pages-register-index~pages-user-profile-email~pages-user-profile~5d2b1856.50a7d822.js",
+    "hash": "b087baed51de23aa80b6110ce63d3562"
+  },
+  {
+    "file": "static/js/pages-machine-box.ff29abde.js",
+    "hash": "122db75199509162c16775f9198d86b9"
+  },
+  {
+    "file": "static/js/pages-machine-buy.4cc85bff.js",
+    "hash": "b46eb43778bd3bdf8c0995131ba2f93d"
+  },
+  {
+    "file": "static/js/pages-machine-history.384a2190.js",
+    "hash": "2c7a13fd2f4eb4cfb74af54087637e19"
+  },
+  {
+    "file": "static/js/pages-machine-index.ee547e53.js",
+    "hash": "557828c393ba2a3df784a4118f623852"
+  },
+  {
+    "file": "static/js/pages-machine-index~pages-shop-index.0e067d46.js",
+    "hash": "a66f70c1c47ed73ab0e74873dd51e7ea"
+  },
+  {
+    "file": "static/js/pages-merchant-account-record.74df4320.js",
+    "hash": "9d057e0ad0821a4a7c306930a05dee57"
+  },
+  {
+    "file": "static/js/pages-merchant-account-record~pages-merchant-withdraw-record~pages-trade-chat-index~pages-trade-rech~acc65cb6.e0b6962f.js",
+    "hash": "46c30177182d1a64a04ceefd84cd93e9"
+  },
+  {
+    "file": "static/js/pages-merchant-apply.259d91e0.js",
+    "hash": "58409ebf6140ccb0442f2cf8d988bd0a"
+  },
+  {
+    "file": "static/js/pages-merchant-home.a3d5c21c.js",
+    "hash": "e1e2f92010063b61d3fdf80d0b662930"
+  },
+  {
+    "file": "static/js/pages-merchant-home~pages-shop-goods-detail.f35829f3.js",
+    "hash": "df63a17d3f903becfb91301c304fe4b6"
+  },
+  {
+    "file": "static/js/pages-merchant-index.b1984b69.js",
+    "hash": "5764b500b5a7acc3c57ae54b91cd2acd"
+  },
+  {
+    "file": "static/js/pages-merchant-list.502faf92.js",
+    "hash": "a43661412f23ebbc0d92f5571b5ead75"
+  },
+  {
+    "file": "static/js/pages-merchant-list~pages-shop-goods-index~pages-shop-index.b34bfc0d.js",
+    "hash": "df0c3637dfbc3a72f01c8e7f7b8a7a46"
+  },
+  {
+    "file": "static/js/pages-merchant-profile.80c24eab.js",
+    "hash": "8aa09e07833394cb11e224403dc634e1"
+  },
+  {
+    "file": "static/js/pages-merchant-qrcode.aec14be4.js",
+    "hash": "eb4c08ba9d164ad5a7db05bbdd2bb7b2"
+  },
+  {
+    "file": "static/js/pages-merchant-withdraw-record.58a6c692.js",
+    "hash": "7186d9d937eb7a6280b126230030d4e4"
+  },
+  {
+    "file": "static/js/pages-merchant-withdraw-usdt.c91690a7.js",
+    "hash": "d7de1f3930f04d731ec838fba34c2e41"
+  },
+  {
+    "file": "static/js/pages-message-history.93c18d28.js",
+    "hash": "247c7593dc278d72cd59616aeecf7167"
+  },
+  {
+    "file": "static/js/pages-message-index.3053e866.js",
+    "hash": "501dfa8689be59d289a7baa425c95f10"
+  },
+  {
+    "file": "static/js/pages-ranks-index.2542f2a1.js",
+    "hash": "06240ad8c8883d1f07b347b961ae210b"
+  },
+  {
+    "file": "static/js/pages-register-index.b6be7a6e.js",
+    "hash": "5b7a6d2d2274ec86b366ff1fb4704ffd"
+  },
+  {
+    "file": "static/js/pages-shop-address.d4deef29.js",
+    "hash": "fd745e1e2095d9030192eafb4ea0f6bc"
+  },
+  {
+    "file": "static/js/pages-shop-carts.6acaa488.js",
+    "hash": "cc833d39fd188fa60553a6e28ea558b7"
+  },
+  {
+    "file": "static/js/pages-shop-goods-detail.73a83cb4.js",
+    "hash": "d60152cc00baef1e3254500af42b4c8e"
+  },
+  {
+    "file": "static/js/pages-shop-goods-index.e30653ed.js",
+    "hash": "a2538708905aef2fa5b421623dd0228d"
+  },
+  {
+    "file": "static/js/pages-shop-index.a9eece92.js",
+    "hash": "1b223e263292e5d649adee319cd99cc0"
+  },
+  {
+    "file": "static/js/pages-shop-order-after.b44c52c5.js",
+    "hash": "ac01077af8cb092827e5bf2df013cfa6"
+  },
+  {
+    "file": "static/js/pages-shop-order-buy.335f35a9.js",
+    "hash": "4d02b46170970f60c3f2f1dfcf1b9825"
+  },
+  {
+    "file": "static/js/pages-shop-order-detail.3599db89.js",
+    "hash": "a96f70f349d16f3cbeaf04c85aa3faf9"
+  },
+  {
+    "file": "static/js/pages-shop-order-detail~pages-shop-order-track.e14f547e.js",
+    "hash": "4c584f094dc51cf856bbcbb89c1a8ffc"
+  },
+  {
+    "file": "static/js/pages-shop-order-index.ecde46ac.js",
+    "hash": "f033cf7d57837c2cd2d1cc16d163abc5"
+  },
+  {
+    "file": "static/js/pages-shop-order-track.8b302a5b.js",
+    "hash": "2133ff28127131c670836c1978acc3e4"
+  },
+  {
+    "file": "static/js/pages-task-index.c88c833f.js",
+    "hash": "1627212316c773ef9e22955878c35a5e"
+  },
+  {
+    "file": "static/js/pages-trade-apply.e91a99bf.js",
+    "hash": "295ae1af87fdb233a362da961b48e9e1"
+  },
+  {
+    "file": "static/js/pages-trade-center.d89bd9c7.js",
+    "hash": "f1276bf452c9bac080bb3ea996d4a4f8"
+  },
+  {
+    "file": "static/js/pages-trade-chat-index.1bd8fa30.js",
+    "hash": "3599d92df94a0c2c205e6e8b24b0e431"
+  },
+  {
+    "file": "static/js/pages-trade-index.69505c0c.js",
+    "hash": "9639cb0de0fdd104ad6dbea94cbb2756"
+  },
+  {
+    "file": "static/js/pages-trade-order-cancel.dc8b8bec.js",
+    "hash": "17252737970ca44ae409e95799597cc1"
+  },
+  {
+    "file": "static/js/pages-trade-order-detail.ac466f10.js",
+    "hash": "72d3b19c122cd58f91320bea76a05990"
+  },
+  {
+    "file": "static/js/pages-trade-order-index.a5fa06b4.js",
+    "hash": "7cb02e215de8adb95d504a4f5369d864"
+  },
+  {
+    "file": "static/js/pages-trade-order-sell.d11f9b63.js",
+    "hash": "b1a18c20f7b9ae138a4b2c0f92accf8e"
+  },
+  {
+    "file": "static/js/pages-trade-order-submit.51072c4e.js",
+    "hash": "f9f622093a5c86211f817c8108a8d556"
+  },
+  {
+    "file": "static/js/pages-trade-orders.d25c0005.js",
+    "hash": "719afb71f722b2b6b17f14d674ee33a5"
+  },
+  {
+    "file": "static/js/pages-trade-recharge-quota.2c146629.js",
+    "hash": "1f0e7041351a2e1319b9927712e8eeaa"
+  },
+  {
+    "file": "static/js/pages-trade-recharge-record.a5ebc67f.js",
+    "hash": "79986b12ef3a26772eb229c2b7c6cb40"
+  },
+  {
+    "file": "static/js/pages-trade-withdraw-quota.065d6fb4.js",
+    "hash": "6192671440c613d6a5f6604676e8c3f2"
+  },
+  {
+    "file": "static/js/pages-trade-withdraw-record.32773692.js",
+    "hash": "3bff345c524d4a6a78cf7676bbf56e0f"
+  },
+  {
+    "file": "static/js/pages-trade-withdraw-usdt.3af762fd.js",
+    "hash": "ff1e60e35fb3f233eaeb6681cc539624"
+  },
+  {
+    "file": "static/js/pages-user-account.98245b83.js",
+    "hash": "a7161b519374f34961d9c979ce657e77"
+  },
+  {
+    "file": "static/js/pages-user-custom.f462ec41.js",
+    "hash": "f53be521f07d0af4ea3a5abd08664fb2"
+  },
+  {
+    "file": "static/js/pages-user-home.d2a6f55e.js",
+    "hash": "b138114734f9936c50708c39fb9c4a9d"
+  },
+  {
+    "file": "static/js/pages-user-index.7517502d.js",
+    "hash": "49b6718ca295c632c3d87fb72e03eab8"
+  },
+  {
+    "file": "static/js/pages-user-manager.8c8cd275.js",
+    "hash": "06c31f36557fff6838b18bfd9202f3b2"
+  },
+  {
+    "file": "static/js/pages-user-nodes.25e70724.js",
+    "hash": "4d5a557c683549bd161c0cd0057502a3"
+  },
+  {
+    "file": "static/js/pages-user-profile-email.6a0db41e.js",
+    "hash": "58d6884c2450148ec2fa9b3abf449659"
+  },
+  {
+    "file": "static/js/pages-user-profile-mobile.a9db2c77.js",
+    "hash": "a3fbfbf417b1fabbc437d7369112829c"
+  },
+  {
+    "file": "static/js/pages-user-profile-password.d8d88519.js",
+    "hash": "3709f466a7c364fe3da78091606cf8bc"
+  },
+  {
+    "file": "static/js/pages-user-profile-pay_password.15838ca8.js",
+    "hash": "e49fd4f0a57f428d32a77a07ac05de68"
+  },
+  {
+    "file": "static/js/pages-user-profile-wallet.f6d37b5c.js",
+    "hash": "25b94127938b24ed3118d9eb26a8d775"
+  },
+  {
+    "file": "static/js/pages-user-profile.f9c698e6.js",
+    "hash": "93635d2b2aa22d8625cbf9b8aac4f060"
+  },
+  {
+    "file": "static/js/pages-user-share.8711c774.js",
+    "hash": "eca03c7748a54ceb7d9910559624eb91"
+  },
+  {
+    "file": "static/js/pages-user-task.da526932.js",
+    "hash": "75ef1c01172d9ecac04b54956e9e0534"
+  },
+  {
+    "file": "static/js/pages-user-team.a604bea3.js",
+    "hash": "4594d90a1a6e1b67f100a5a6d46f4bf2"
+  },
+  {
+    "file": "static/js/pages-user-upgrade.be781539.js",
+    "hash": "2b8a16dfacf5e915af42213a3d925e74"
+  },
+  {
+    "file": "static/js/pages-video-index.804a1130.js",
+    "hash": "eb963feabf6fdd16b10df3e05af5f007"
+  },
+  {
+    "file": "static/js/pages-video-play.f8436a6a.js",
+    "hash": "8095ba0494ea39b58b7efa0b2f94c644"
+  },
+  {
+    "file": "static/js/pages-video-video-player.688d7eb0.js",
+    "hash": "b9595c434c81ac44bc6bc004c9987078"
+  },
+  {
+    "file": "static/js/pages-wallet-exchange-xd.d64893d4.js",
+    "hash": "cc6a3156ecc04fc86f6043bae9eef68f"
+  },
+  {
+    "file": "static/js/pages-wallet-index.bcb0ef8a.js",
+    "hash": "5a0d9d98f5e5f6e3cc32ff65d663344b"
+  },
+  {
+    "file": "static/js/pages-wallet-payment.5fb46e16.js",
+    "hash": "1e43844fe082d2564cc9c02c26cd2038"
+  },
+  {
+    "file": "static/js/pages-wallet-power.a771b73e.js",
+    "hash": "dec7ebe3b055599c6bd16013c9f536d8"
+  },
+  {
+    "file": "static/js/pages-wallet-recharge-record.bb2caf5f.js",
+    "hash": "2703928d49cc93108426f8f9e535e5a5"
+  },
+  {
+    "file": "static/js/pages-wallet-recharge-usdt.a6e36720.js",
+    "hash": "e205c4729e9483294a58445961d9d93e"
+  },
+  {
+    "file": "static/js/pages-wallet-recharge-xd.72103b09.js",
+    "hash": "ab6e1fe51205de0f5ebad1335e5efae7"
+  },
+  {
+    "file": "static/js/pages-wallet-record.a334c899.js",
+    "hash": "93a4664c259b53772f72dc92668e37f0"
+  },
+  {
+    "file": "static/js/pages-wallet-score.0ae1cc18.js",
+    "hash": "1fc47655c7691bc42cc263df99a5ab89"
+  },
+  {
+    "file": "static/js/pages-wallet-transfer-usdt.852bd8e3.js",
+    "hash": "7095c390433ddf7487cd24a0d68490e4"
+  },
+  {
+    "file": "static/js/pages-wallet-usdt.4bb05b32.js",
+    "hash": "6c71e3856da9bed635287277c01e2ec9"
+  },
+  {
+    "file": "static/js/pages-wallet-wait_score.86be3e73.js",
+    "hash": "68a181b72393780f5ae1d186bbfe34d4"
+  },
+  {
+    "file": "static/js/pages-wallet-withdraw-record.82910a5f.js",
+    "hash": "c8ec5007c4d290a8e346d3aa43321431"
+  },
+  {
+    "file": "static/js/pages-wallet-withdraw-usdt.22778109.js",
+    "hash": "7cc7083a5d10336dc8a7fda401732bf7"
+  },
+  {
+    "file": "static/js/pages-wallet-xd.bbc19671.js",
+    "hash": "8a7e90b35eee638b30cb09a965edaee0"
+  },
+  {
+    "file": "static/mp3/chat.mp3",
+    "hash": "e2966f27377feaa130e80895e1b9923e"
+  },
+  {
+    "file": "static/mp3/order.mp3",
+    "hash": "3f1fe127c88eefb495aeccb83e0fdbe8"
+  }
+]
